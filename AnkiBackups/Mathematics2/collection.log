@@ -136,3 +136,15 @@
 [1597942752] schedv2.py:getCard(): {'data': '', 'did': 1597776213330, 'due': 33, 'factor': 0, 'flags': 0, 'id': 1597777117365, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1597777117, 'nid': 1597777065276, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 9}
 [1597942756] sched.py:answerCard(): 
 [1597942756] schedv2.py:getCard(): {'data': '', 'did': 1597776213330, 'due': 34, 'factor': 0, 'flags': 0, 'id': 1597777217951, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1597777217, 'nid': 1597777167804, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 9}
+[1598031176] collection.py:__init__(): /home/user/.local/share/Anki2/Mathematics/collection.anki2, 2.1.26
+[1598031176] sched.py:_updateCutoff(): 3, 1598104800
+[1598035695] collection.py:__init__(): /home/user/.local/share/Anki2/Mathematics/collection.anki2, 2.1.26
+[1598035695] sched.py:_updateCutoff(): 3, 1598104800
+[1598037395] collection.py:__init__(): /home/user/.local/share/Anki2/Mathematics/collection.anki2, 2.1.26
+[1598037395] sched.py:_updateCutoff(): 3, 1598104800
+[1598626300] collection.py:__init__(): /home/user/.local/share/Anki2/Mathematics/collection.anki2, 2.1.26
+[1598626300] sched.py:_updateCutoff(): 10, 1598709600
+[1598630936] collection.py:__init__(): /home/user/.local/share/Anki2/Mathematics/collection.anki2, 2.1.26
+[1598630936] sched.py:_updateCutoff(): 10, 1598709600
+[1598630938] collection.py:__init__(): /home/user/.local/share/Anki2/Mathematics/collection.anki2, 2.1.26
+[1598630938] sched.py:_updateCutoff(): 10, 1598709600
