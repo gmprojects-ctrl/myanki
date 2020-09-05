@@ -329,3 +329,68 @@ Aug 28 17:08:59.236 DEBG skip check
 Aug 28 17:08:59.236 DEBG begin media sync
 Aug 28 17:08:59.433 DEBG server usn was 11
 Aug 28 17:08:59.434 DEBG media sync complete
+Aug 28 17:18:05.390 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Aug 28 17:18:05.390 DEBG skip check
+Aug 28 17:18:05.390 DEBG begin media sync
+Aug 28 17:18:05.616 DEBG server usn was 11
+Aug 28 17:18:05.617 DEBG media sync complete
+Aug 28 17:18:08.150 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Aug 28 17:18:08.150 DEBG skip check
+Aug 28 17:18:08.150 DEBG begin media sync
+Aug 28 17:18:08.374 DEBG server usn was 11
+Aug 28 17:18:08.375 DEBG media sync complete
+Aug 28 21:11:28.699 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Aug 28 21:11:28.754 DEBG skip check
+Aug 28 21:11:28.754 DEBG begin media sync
+Aug 28 21:11:29.004 DEBG server usn was 11
+Aug 28 21:11:29.005 DEBG media sync complete
+Aug 28 21:19:50.521 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Aug 28 21:19:50.522 DEBG skip check
+Aug 28 21:19:50.522 DEBG begin media sync
+Aug 28 21:19:50.966 DEBG server usn was 11
+Aug 28 21:19:50.967 DEBG media sync complete
+Sep 05 17:02:14.897 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Sep 05 17:02:15.012 DEBG skip check
+Sep 05 17:02:15.012 DEBG begin media sync
+Sep 05 17:02:15.217 DEBG server usn was 11
+Sep 05 17:02:15.868 DEBG media sync complete
+Sep 05 17:03:29.990 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Sep 05 17:03:29.990 DEBG skip check
+Sep 05 17:03:29.990 DEBG begin media sync
+Sep 05 17:03:30.252 DEBG server usn was 11
+Sep 05 17:03:30.252 DEBG media sync complete
+Sep 05 17:03:38.152 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Sep 05 17:03:38.152 DEBG skip check
+Sep 05 17:03:38.152 DEBG begin media sync
+Sep 05 17:03:38.608 DEBG server usn was 11
+Sep 05 17:03:38.608 DEBG media sync complete
+Sep 05 17:23:35.695 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Sep 05 17:23:35.695 DEBG skip check
+Sep 05 17:23:35.696 DEBG begin media sync
+Sep 05 17:23:36.143 DEBG server usn was 11
+Sep 05 17:23:36.144 DEBG media sync complete
+Sep 05 17:43:35.664 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Sep 05 17:43:35.668 DEBG skip check
+Sep 05 17:43:35.668 DEBG begin media sync
+Sep 05 17:43:36.326 DEBG server usn was 11
+Sep 05 17:43:36.326 DEBG media sync complete
+Sep 05 18:03:35.665 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Sep 05 18:03:35.665 DEBG skip check
+Sep 05 18:03:35.665 DEBG begin media sync
+Sep 05 18:03:36.119 DEBG server usn was 11
+Sep 05 18:03:36.120 DEBG media sync complete
+Sep 05 18:23:35.672 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Sep 05 18:23:35.672 DEBG skip check
+Sep 05 18:23:35.672 DEBG begin media sync
+Sep 05 18:23:36.089 DEBG server usn was 11
+Sep 05 18:23:36.089 DEBG media sync complete
+Sep 05 18:26:15.323 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Sep 05 18:26:15.323 DEBG skip check
+Sep 05 18:26:15.323 DEBG begin media sync
+Sep 05 18:26:15.584 DEBG server usn was 11
+Sep 05 18:26:15.584 DEBG media sync complete
+Sep 05 18:26:16.655 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Sep 05 18:26:16.655 DEBG skip check
+Sep 05 18:26:16.655 DEBG begin media sync
+Sep 05 18:26:16.895 DEBG server usn was 11
+Sep 05 18:26:16.896 DEBG media sync complete
