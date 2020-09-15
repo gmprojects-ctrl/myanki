@@ -453,3 +453,28 @@ Sep 14 00:00:25.526 DEBG begin change check, db_mod: 1597761658, folder_mod: 159
 Sep 14 00:00:25.526 DEBG skip check
 Sep 14 00:00:25.526 DEBG begin media sync
 Sep 14 00:00:25.529 DEBG sync error: NetworkError { info: "error sending request for url (): error trying to connect: dns error: failed to lookup address information: Temporary failure in name resolution", kind: Offline }
+Sep 15 19:27:21.966 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Sep 15 19:27:22.083 DEBG skip check
+Sep 15 19:27:22.083 DEBG begin media sync
+Sep 15 19:27:22.375 DEBG server usn was 11
+Sep 15 19:27:22.964 DEBG media sync complete
+Sep 15 19:38:16.988 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Sep 15 19:38:16.988 DEBG skip check
+Sep 15 19:38:16.988 DEBG begin media sync
+Sep 15 19:38:17.249 DEBG server usn was 11
+Sep 15 19:38:17.250 DEBG media sync complete
+Sep 15 19:38:19.258 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Sep 15 19:38:19.258 DEBG skip check
+Sep 15 19:38:19.258 DEBG begin media sync
+Sep 15 19:38:19.447 DEBG server usn was 11
+Sep 15 19:38:19.447 DEBG media sync complete
+Sep 15 19:38:21.128 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Sep 15 19:38:21.128 DEBG skip check
+Sep 15 19:38:21.128 DEBG begin media sync
+Sep 15 19:38:21.325 DEBG server usn was 11
+Sep 15 19:38:21.325 DEBG media sync complete
+Sep 15 19:38:22.888 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Sep 15 19:38:22.888 DEBG skip check
+Sep 15 19:38:22.888 DEBG begin media sync
+Sep 15 19:38:23.097 DEBG server usn was 11
+Sep 15 19:38:23.098 DEBG media sync complete
