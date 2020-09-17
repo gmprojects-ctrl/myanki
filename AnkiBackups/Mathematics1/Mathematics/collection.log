@@ -218,3 +218,8 @@
 [1600195099] sched.py:_updateCutoff(): 28, 1600264800
 [1600195101] collection.py:__init__(): /home/user/.local/share/Anki2/Mathematics/collection.anki2, 2.1.26
 [1600195101] sched.py:_updateCutoff(): 28, 1600264800
+[1600342195] collection.py:__init__(): /home/user/.local/share/Anki2/Mathematics/collection.anki2, 2.1.26
+[1600342195] sched.py:_updateCutoff(): 29, 1600351200
+[1600343021] sched.py:emptyDyn(): []
+[1600343070] collection.py:__init__(): /home/user/.local/share/Anki2/Mathematics/collection.anki2, 2.1.26
+[1600343070] sched.py:_updateCutoff(): 29, 1600351200
