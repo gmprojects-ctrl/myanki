@@ -229,3 +229,11 @@
 [1600949870] sched.py:_updateCutoff(): 36, 1600956000
 [1600973780] sched.py:_updateCutoff(): 37, 1601042400
 [1600973780] sched.py:unburyCards(): []
+[1601038402] collection.py:__init__(): /home/user/.local/share/Anki2/Mathematics/collection.anki2, 2.1.26
+[1601038402] sched.py:_updateCutoff(): 37, 1601042400
+[1601042564] sched.py:_updateCutoff(): 38, 1601128800
+[1601042564] sched.py:unburyCards(): []
+[1601043820] collection.py:__init__(): /home/user/.local/share/Anki2/Mathematics/collection.anki2, 2.1.26
+[1601043820] sched.py:_updateCutoff(): 38, 1601128800
+[1601486849] collection.py:__init__(): /home/user/.local/share/Anki2/Mathematics/collection.anki2, 2.1.26
+[1601486849] sched.py:_updateCutoff(): 43, 1601560800
