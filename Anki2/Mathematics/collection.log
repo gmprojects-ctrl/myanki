@@ -509,3 +509,1201 @@
 [1604595590] sched.py:answerCard(): 
 [1604856997] collection.py:__init__(): /home/user/.local/share/Anki2/Mathematics/collection.anki2, 2.1.26
 [1604856997] sched.py:_updateCutoff(): 82, 1604930400
+[1605193053] collection.py:__init__(): /home/user/.local/share/Anki2/Mathematics/collection.anki2, 2.1.26
+[1605193053] sched.py:_updateCutoff(): 86, 1605276000
+[1605193060] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 85, 'factor': 2100, 'flags': 0, 'id': 1603902860917, 'ivl': 1, 'lapses': 2, 'left': 1001, 'mod': 1605026241, 'nid': 1603902434930, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': 104}
+[1605193077] sched.py:answerCard(): 
+[1605193077] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 85, 'factor': 2500, 'flags': 0, 'id': 1604858245156, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605026275, 'nid': 1604857879361, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 104}
+[1605193085] sched.py:answerCard(): 
+[1605193085] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 85, 'factor': 2500, 'flags': 0, 'id': 1604857879270, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605026177, 'nid': 1604857516437, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 104}
+[1605193097] sched.py:answerCard(): 
+[1605193097] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 85, 'factor': 2500, 'flags': 0, 'id': 1604858554090, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605026254, 'nid': 1604858283021, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 104}
+[1605193115] sched.py:answerCard(): 
+[1605193338] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 92, 'factor': 0, 'flags': 0, 'id': 1598626571360, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1598626571, 'nid': 1598626449881, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 27}
+[1605193345] sched.py:answerCard(): 
+[1605193345] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 93, 'factor': 0, 'flags': 0, 'id': 1598626715443, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1598626715, 'nid': 1598626581120, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 27}
+[1605193350] sched.py:answerCard(): 
+[1605193350] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 94, 'factor': 0, 'flags': 0, 'id': 1598627201988, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1598627201, 'nid': 1598626872115, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 27}
+[1605193369] sched.py:answerCard(): 
+[1605193369] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 95, 'factor': 0, 'flags': 0, 'id': 1598627453953, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1598627453, 'nid': 1598627287573, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 27}
+[1605193430] sched.py:answerCard(): 
+[1605193430] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 96, 'factor': 0, 'flags': 0, 'id': 1598627732780, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1598627732, 'nid': 1598627590361, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 27}
+[1605193439] sched.py:answerCard(): 
+[1605193439] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 97, 'factor': 0, 'flags': 0, 'id': 1598627930807, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1598627930, 'nid': 1598627774040, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 27}
+[1605193478] sched.py:answerCard(): 
+[1605193478] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 98, 'factor': 0, 'flags': 0, 'id': 1598628135594, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1598628135, 'nid': 1598627980544, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 27}
+[1605193482] sched.py:answerCard(): 
+[1605193482] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 99, 'factor': 0, 'flags': 0, 'id': 1598628319641, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1598628319, 'nid': 1598628158271, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 27}
+[1605193500] sched.py:answerCard(): 
+[1605193500] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 100, 'factor': 0, 'flags': 0, 'id': 1598628589736, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1598628589, 'nid': 1598628517719, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 27}
+[1605193505] sched.py:answerCard(): 
+[1605193505] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 101, 'factor': 0, 'flags': 0, 'id': 1598628779971, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1598628779, 'nid': 1598628630730, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 27}
+[1605193549] sched.py:answerCard(): 
+[1605193549] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 102, 'factor': 0, 'flags': 0, 'id': 1598628878001, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1598628878, 'nid': 1598628835861, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 27}
+[1605193553] sched.py:answerCard(): 
+[1605193553] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 103, 'factor': 0, 'flags': 0, 'id': 1598629154424, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1598629154, 'nid': 1598629007770, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 27}
+[1605193559] sched.py:answerCard(): 
+[1605193559] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 104, 'factor': 0, 'flags': 0, 'id': 1598629240377, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1598629240, 'nid': 1598629205139, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 27}
+[1605193587] sched.py:answerCard(): 
+[1605193587] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 105, 'factor': 0, 'flags': 0, 'id': 1598629436256, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1598629436, 'nid': 1598629273595, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 27}
+[1605193598] sched.py:answerCard(): 
+[1605193598] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 106, 'factor': 0, 'flags': 0, 'id': 1598629655512, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1598629655, 'nid': 1598629436271, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 27}
+[1605193604] sched.py:answerCard(): 
+[1605193604] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 107, 'factor': 0, 'flags': 0, 'id': 1598629834206, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1598629834, 'nid': 1598629740238, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 27}
+[1605193607] sched.py:answerCard(): 
+[1605193607] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 108, 'factor': 0, 'flags': 0, 'id': 1598630134118, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1598630134, 'nid': 1598629939791, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 27}
+[1605193613] sched.py:answerCard(): 
+[1605193613] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 109, 'factor': 0, 'flags': 0, 'id': 1598630417022, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1598630417, 'nid': 1598630172920, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 27}
+[1605193619] sched.py:answerCard(): 
+[1605193619] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 110, 'factor': 0, 'flags': 0, 'id': 1598630587327, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1598630587, 'nid': 1598630447227, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 27}
+[1605193621] sched.py:answerCard(): 
+[1605193621] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 111, 'factor': 0, 'flags': 0, 'id': 1598630780809, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1598630780, 'nid': 1598630629923, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 27}
+[1605193631] sched.py:answerCard(): 
+[1605193631] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 1605193945, 'factor': 0, 'flags': 0, 'id': 1598626571360, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605193345, 'nid': 1598626449881, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605193649] sched.py:answerCard(): 
+[1605193650] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 1605193950, 'factor': 0, 'flags': 0, 'id': 1598626715443, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605193350, 'nid': 1598626581120, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605193722] sched.py:answerCard(): 
+[1605193722] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 1605193969, 'factor': 0, 'flags': 0, 'id': 1598627201988, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605193369, 'nid': 1598626872115, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605193760] sched.py:answerCard(): 
+[1605193760] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 1605194030, 'factor': 0, 'flags': 0, 'id': 1598627453953, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605193430, 'nid': 1598627287573, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605193763] sched.py:answerCard(): 
+[1605193763] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 1605194078, 'factor': 0, 'flags': 0, 'id': 1598627930807, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605193478, 'nid': 1598627774040, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605193771] sched.py:answerCard(): 
+[1605193771] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 1605194082, 'factor': 0, 'flags': 0, 'id': 1598628135594, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605193482, 'nid': 1598627980544, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605193774] sched.py:answerCard(): 
+[1605193774] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 1605194100, 'factor': 0, 'flags': 0, 'id': 1598628319641, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605193500, 'nid': 1598628158271, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605193811] sched.py:answerCard(): 
+[1605193811] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 1605194149, 'factor': 0, 'flags': 0, 'id': 1598628779971, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605193549, 'nid': 1598628630730, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605193821] sched.py:answerCard(): 
+[1605193821] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 1605194159, 'factor': 0, 'flags': 0, 'id': 1598629154424, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605193559, 'nid': 1598629007770, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605193825] sched.py:answerCard(): 
+[1605193825] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 1605194187, 'factor': 0, 'flags': 0, 'id': 1598629240377, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605193587, 'nid': 1598629205139, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605193828] sched.py:answerCard(): 
+[1605193828] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 1605194198, 'factor': 0, 'flags': 0, 'id': 1598629436256, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605193598, 'nid': 1598629273595, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605193834] sched.py:answerCard(): 
+[1605193834] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 1605194204, 'factor': 0, 'flags': 0, 'id': 1598629655512, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605193604, 'nid': 1598629436271, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605193838] sched.py:answerCard(): 
+[1605193838] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 1605194207, 'factor': 0, 'flags': 0, 'id': 1598629834206, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605193607, 'nid': 1598629740238, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605193842] sched.py:answerCard(): 
+[1605193842] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 1605194213, 'factor': 0, 'flags': 0, 'id': 1598630134118, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605193613, 'nid': 1598629939791, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605193857] sched.py:answerCard(): 
+[1605193857] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 1605194219, 'factor': 0, 'flags': 0, 'id': 1598630417022, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605193619, 'nid': 1598630172920, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605193860] sched.py:answerCard(): 
+[1605193860] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 1605194221, 'factor': 0, 'flags': 0, 'id': 1598630587327, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605193621, 'nid': 1598630447227, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605193864] sched.py:answerCard(): 
+[1605193864] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 1605194231, 'factor': 0, 'flags': 0, 'id': 1598630780809, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605193631, 'nid': 1598630629923, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605193874] sched.py:answerCard(): 
+[1605262812] collection.py:__init__(): /home/user/.local/share/Anki2/Mathematics/collection.anki2, 2.1.26
+[1605262812] sched.py:_updateCutoff(): 86, 1605276000
+[1605262899] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 343, 'factor': 0, 'flags': 0, 'id': 1605193301894, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605193301, 'nid': 1605193203030, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 106}
+[1605262949] sched.py:answerCard(): 
+[1605262950] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 1605263009, 'factor': 0, 'flags': 0, 'id': 1605193301894, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1605262949, 'nid': 1605193203030, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605262959] sched.py:answerCard(): 
+[1605262959] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 1605263559, 'factor': 0, 'flags': 0, 'id': 1605193301894, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605262959, 'nid': 1605193203030, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1605262963] sched.py:answerCard(): 
+[1605443890] collection.py:__init__(): /home/user/.local/share/Anki2/Mathematics/collection.anki2, 2.1.26
+[1605443890] sched.py:_updateCutoff(): 88, 1605448800
+[1605449259] sched.py:_updateCutoff(): 89, 1605535200
+[1605449259] sched.py:unburyCards(): []
+[1605551617] collection.py:__init__(): /home/user/.local/share/Anki2/Mathematics/collection.anki2, 2.1.26
+[1605551617] sched.py:_updateCutoff(): 90, 1605621600
+[1605551630] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 83, 'factor': 2500, 'flags': 0, 'id': 1604417768871, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1604694085, 'nid': 1604417650625, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 103}
+[1605551642] sched.py:answerCard(): 
+[1605551642] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 90, 'factor': 2500, 'flags': 0, 'id': 1602151996746, 'ivl': 23, 'lapses': 0, 'left': 1001, 'mod': 1603619504, 'nid': 1602151902086, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 79}
+[1605551653] sched.py:answerCard(): 
+[1605551653] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 82, 'factor': 2500, 'flags': 0, 'id': 1604417798023, 'ivl': 2, 'lapses': 0, 'left': 1001, 'mod': 1604694104, 'nid': 1604417768887, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 103}
+[1605551658] sched.py:answerCard(): 
+[1605551658] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 85, 'factor': 2500, 'flags': 0, 'id': 1604308845153, 'ivl': 6, 'lapses': 0, 'left': 1001, 'mod': 1604595021, 'nid': 1604308807460, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 99}
+[1605551664] sched.py:answerCard(): 
+[1605551664] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 89, 'factor': 2500, 'flags': 0, 'id': 1603203217042, 'ivl': 13, 'lapses': 0, 'left': 1001, 'mod': 1604339363, 'nid': 1603203169969, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 97}
+[1605551677] sched.py:answerCard(): 
+[1605551677] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 87, 'factor': 2500, 'flags': 0, 'id': 1603203287304, 'ivl': 11, 'lapses': 0, 'left': 1001, 'mod': 1604339132, 'nid': 1603203231791, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 97}
+[1605551686] sched.py:answerCard(): 
+[1605551686] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 87, 'factor': 2500, 'flags': 0, 'id': 1603205112541, 'ivl': 11, 'lapses': 0, 'left': 1001, 'mod': 1604339185, 'nid': 1603204828118, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 97}
+[1605551699] sched.py:answerCard(): 
+[1605551699] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 84, 'factor': 2500, 'flags': 0, 'id': 1604309320608, 'ivl': 5, 'lapses': 0, 'left': 1001, 'mod': 1604595231, 'nid': 1604309069877, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 99}
+[1605551711] sched.py:answerCard(): 
+[1605551711] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 84, 'factor': 2500, 'flags': 0, 'id': 1604310543357, 'ivl': 5, 'lapses': 0, 'left': 1001, 'mod': 1604595240, 'nid': 1604310377234, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 99}
+[1605551718] sched.py:answerCard(): 
+[1605551718] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 85, 'factor': 2500, 'flags': 0, 'id': 1603204802164, 'ivl': 9, 'lapses': 0, 'left': 1001, 'mod': 1604339111, 'nid': 1603204741264, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 97}
+[1605551748] sched.py:answerCard(): 
+[1605551748] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 88, 'factor': 2500, 'flags': 0, 'id': 1603206166055, 'ivl': 12, 'lapses': 0, 'left': 1001, 'mod': 1604339377, 'nid': 1603206092307, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 97}
+[1605551753] sched.py:answerCard(): 
+[1605551753] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 88, 'factor': 2500, 'flags': 0, 'id': 1603203416622, 'ivl': 12, 'lapses': 0, 'left': 1001, 'mod': 1604339343, 'nid': 1603203371046, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 97}
+[1605551758] sched.py:answerCard(): 
+[1605551758] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 84, 'factor': 2500, 'flags': 0, 'id': 1604308700372, 'ivl': 5, 'lapses': 0, 'left': 1001, 'mod': 1604595152, 'nid': 1604308622308, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 99}
+[1605551766] sched.py:answerCard(): 
+[1605551766] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 85, 'factor': 2500, 'flags': 0, 'id': 1604310377134, 'ivl': 6, 'lapses': 0, 'left': 1001, 'mod': 1604595079, 'nid': 1604310204292, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 99}
+[1605551777] sched.py:answerCard(): 
+[1605551777] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 84, 'factor': 2500, 'flags': 0, 'id': 1604308767947, 'ivl': 5, 'lapses': 0, 'left': 1001, 'mod': 1604595134, 'nid': 1604308700384, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 99}
+[1605551791] sched.py:answerCard(): 
+[1605551791] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 84, 'factor': 2500, 'flags': 0, 'id': 1604310875664, 'ivl': 5, 'lapses': 0, 'left': 1001, 'mod': 1604595181, 'nid': 1604310724523, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 99}
+[1605551806] sched.py:answerCard(): 
+[1605551806] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 82, 'factor': 2500, 'flags': 0, 'id': 1604416178893, 'ivl': 2, 'lapses': 0, 'left': 1001, 'mod': 1604694029, 'nid': 1604416118198, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 103}
+[1605551814] sched.py:answerCard(): 
+[1605551814] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 85, 'factor': 2500, 'flags': 0, 'id': 1604311178438, 'ivl': 6, 'lapses': 0, 'left': 1001, 'mod': 1604595065, 'nid': 1604310927744, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 99}
+[1605551837] sched.py:answerCard(): 
+[1605551837] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 86, 'factor': 2500, 'flags': 0, 'id': 1602153206382, 'ivl': 19, 'lapses': 0, 'left': 1001, 'mod': 1603619531, 'nid': 1602153125967, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 79}
+[1605551847] sched.py:answerCard(): 
+[1605551847] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 82, 'factor': 2500, 'flags': 0, 'id': 1604416499096, 'ivl': 2, 'lapses': 0, 'left': 1001, 'mod': 1604694068, 'nid': 1604416321387, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 103}
+[1605551855] sched.py:answerCard(): 
+[1605551855] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 82, 'factor': 2500, 'flags': 0, 'id': 1604415964906, 'ivl': 2, 'lapses': 0, 'left': 1001, 'mod': 1604694007, 'nid': 1604415866755, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 103}
+[1605551868] sched.py:answerCard(): 
+[1605551868] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 84, 'factor': 2500, 'flags': 0, 'id': 1604309960907, 'ivl': 5, 'lapses': 0, 'left': 1001, 'mod': 1604595285, 'nid': 1604309809235, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 99}
+[1605551875] sched.py:answerCard(): 
+[1605551875] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 84, 'factor': 2500, 'flags': 0, 'id': 1604309527847, 'ivl': 5, 'lapses': 0, 'left': 1001, 'mod': 1604595214, 'nid': 1604309441419, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 99}
+[1605551879] sched.py:answerCard(): 
+[1605551879] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 83, 'factor': 2500, 'flags': 0, 'id': 1604417329641, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1604694076, 'nid': 1604416951083, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 103}
+[1605551907] sched.py:answerCard(): 
+[1605551907] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 83, 'factor': 2500, 'flags': 0, 'id': 1604416070412, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1604595318, 'nid': 1604416039518, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 99}
+[1605551917] sched.py:answerCard(): 
+[1605551918] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 84, 'factor': 2500, 'flags': 0, 'id': 1602152597619, 'ivl': 17, 'lapses': 0, 'left': 1001, 'mod': 1603619494, 'nid': 1602152377134, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 79}
+[1605551940] sched.py:answerCard(): 
+[1605551940] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 82, 'factor': 2500, 'flags': 0, 'id': 1604416291990, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1604595331, 'nid': 1604416178910, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 99}
+[1605551945] sched.py:answerCard(): 
+[1605551945] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 84, 'factor': 2500, 'flags': 0, 'id': 1604418006169, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1604694064, 'nid': 1604417798026, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 103}
+[1605551999] sched.py:answerCard(): 
+[1605551999] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 84, 'factor': 2500, 'flags': 0, 'id': 1603203883189, 'ivl': 8, 'lapses': 0, 'left': 1001, 'mod': 1604339150, 'nid': 1603203678809, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 97}
+[1605552041] sched.py:answerCard(): 
+[1605552041] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 84, 'factor': 2500, 'flags': 0, 'id': 1604308984272, 'ivl': 5, 'lapses': 0, 'left': 1001, 'mod': 1604595010, 'nid': 1604308906053, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 99}
+[1605552048] sched.py:answerCard(): 
+[1605552048] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 83, 'factor': 2500, 'flags': 0, 'id': 1604309441339, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1604595102, 'nid': 1604309320614, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 99}
+[1605552058] sched.py:answerCard(): 
+[1605552058] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 89, 'factor': 2500, 'flags': 0, 'id': 1603205771729, 'ivl': 13, 'lapses': 0, 'left': 1001, 'mod': 1604339121, 'nid': 1603205532220, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 97}
+[1605552072] sched.py:answerCard(): 
+[1605552072] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 85, 'factor': 2500, 'flags': 0, 'id': 1604308234163, 'ivl': 6, 'lapses': 0, 'left': 1001, 'mod': 1604595200, 'nid': 1604308122130, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 99}
+[1605552088] sched.py:answerCard(): 
+[1605552088] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 84, 'factor': 2500, 'flags': 0, 'id': 1604417563434, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1604694096, 'nid': 1604417444702, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 103}
+[1605552116] sched.py:answerCard(): 
+[1605552116] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 87, 'factor': 2500, 'flags': 0, 'id': 1603205303798, 'ivl': 11, 'lapses': 0, 'left': 1001, 'mod': 1604339251, 'nid': 1603205161618, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 97}
+[1605552132] sched.py:answerCard(): 
+[1605552132] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 83, 'factor': 2500, 'flags': 0, 'id': 1604310142557, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1604594995, 'nid': 1604310017560, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 99}
+[1605552141] sched.py:answerCard(): 
+[1605552141] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 88, 'factor': 2500, 'flags': 0, 'id': 1603204288235, 'ivl': 12, 'lapses': 0, 'left': 1001, 'mod': 1604339234, 'nid': 1603204136084, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 97}
+[1605552162] sched.py:answerCard(): 
+[1605552162] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 83, 'factor': 2500, 'flags': 0, 'id': 1604310679974, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1604594982, 'nid': 1604310543361, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 99}
+[1605552175] sched.py:answerCard(): 
+[1605552175] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 84, 'factor': 2500, 'flags': 0, 'id': 1604416647584, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1604694032, 'nid': 1604416499101, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 103}
+[1605552181] sched.py:answerCard(): 
+[1605552181] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 86, 'factor': 2500, 'flags': 0, 'id': 1603203678666, 'ivl': 10, 'lapses': 0, 'left': 1001, 'mod': 1604339302, 'nid': 1603203476453, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 97}
+[1605552186] sched.py:answerCard(): 
+[1605552186] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 89, 'factor': 2500, 'flags': 0, 'id': 1603206092112, 'ivl': 13, 'lapses': 0, 'left': 1001, 'mod': 1604339318, 'nid': 1603205989943, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 97}
+[1605552194] sched.py:answerCard(): 
+[1605552194] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 83, 'factor': 2500, 'flags': 0, 'id': 1604309777579, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1604595275, 'nid': 1604309527854, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 99}
+[1605552198] sched.py:answerCard(): 
+[1605552198] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 90, 'factor': 2500, 'flags': 0, 'id': 1603204593738, 'ivl': 14, 'lapses': 0, 'left': 1001, 'mod': 1604339268, 'nid': 1603204356434, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 97}
+[1605552254] sched.py:answerCard(): 
+[1605552254] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 1605552242, 'factor': 2300, 'flags': 0, 'id': 1604417768871, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1605551642, 'nid': 1604417650625, 'odid': 0, 'odue': 91, 'ord': 0, 'queue': 1, 'reps': 4, 'type': 2, 'usn': -1}
+[1605552265] sched.py:answerCard(): 
+[1605552265] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 84, 'factor': 2500, 'flags': 0, 'id': 1604416814552, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1604694018, 'nid': 1604416647664, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 103}
+[1605552283] sched.py:answerCard(): 
+[1605552283] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 82, 'factor': 2500, 'flags': 0, 'id': 1604415866741, 'ivl': 2, 'lapses': 0, 'left': 1001, 'mod': 1604694080, 'nid': 1604415727121, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 103}
+[1605552290] sched.py:answerCard(): 
+[1605552290] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 86, 'factor': 2500, 'flags': 0, 'id': 1603205485862, 'ivl': 10, 'lapses': 0, 'left': 1001, 'mod': 1604339140, 'nid': 1603205380887, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 97}
+[1605552301] sched.py:answerCard(): 
+[1605552301] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 83, 'factor': 2500, 'flags': 0, 'id': 1604308906046, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1604594977, 'nid': 1604308845161, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 99}
+[1605552315] sched.py:answerCard(): 
+[1605552315] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 1605552318, 'factor': 2300, 'flags': 0, 'id': 1604310543357, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1605551718, 'nid': 1604310377234, 'odid': 0, 'odue': 91, 'ord': 0, 'queue': 1, 'reps': 4, 'type': 2, 'usn': -1}
+[1605552336] sched.py:answerCard(): 
+[1605552336] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 1605552377, 'factor': 2300, 'flags': 0, 'id': 1604310377134, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1605551777, 'nid': 1604310204292, 'odid': 0, 'odue': 91, 'ord': 0, 'queue': 1, 'reps': 4, 'type': 2, 'usn': -1}
+[1605552361] sched.py:answerCard(): 
+[1605552361] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 1605552406, 'factor': 2300, 'flags': 0, 'id': 1604310875664, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1605551806, 'nid': 1604310724523, 'odid': 0, 'odue': 91, 'ord': 0, 'queue': 1, 'reps': 4, 'type': 2, 'usn': -1}
+[1605552375] sched.py:answerCard(): 
+[1605552375] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 1605552672, 'factor': 2300, 'flags': 0, 'id': 1603205771729, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1605552072, 'nid': 1603205532220, 'odid': 0, 'odue': 91, 'ord': 0, 'queue': 1, 'reps': 5, 'type': 2, 'usn': -1}
+[1605552386] sched.py:answerCard(): 
+[1605552386] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 1605552741, 'factor': 2300, 'flags': 0, 'id': 1604310142557, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1605552141, 'nid': 1604310017560, 'odid': 0, 'odue': 91, 'ord': 0, 'queue': 1, 'reps': 4, 'type': 2, 'usn': -1}
+[1605552393] sched.py:answerCard(): 
+[1605552393] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 1605552865, 'factor': 2300, 'flags': 0, 'id': 1604417768871, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1605552265, 'nid': 1604417650625, 'odid': 0, 'odue': 91, 'ord': 0, 'queue': 1, 'reps': 5, 'type': 2, 'usn': -1}
+[1605552401] sched.py:answerCard(): 
+[1605552401] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 1605552915, 'factor': 2300, 'flags': 0, 'id': 1604308906046, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1605552315, 'nid': 1604308845161, 'odid': 0, 'odue': 91, 'ord': 0, 'queue': 1, 'reps': 4, 'type': 2, 'usn': -1}
+[1605552406] sched.py:answerCard(): 
+[1605552406] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 1605552936, 'factor': 2300, 'flags': 0, 'id': 1604310543357, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1605552336, 'nid': 1604310377234, 'odid': 0, 'odue': 91, 'ord': 0, 'queue': 1, 'reps': 5, 'type': 2, 'usn': -1}
+[1605552410] sched.py:answerCard(): 
+[1605552419] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 88, 'factor': 2100, 'flags': 0, 'id': 1603902860917, 'ivl': 2, 'lapses': 2, 'left': 1001, 'mod': 1605193077, 'nid': 1603902434930, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 9, 'type': 2, 'usn': 106}
+[1605552434] sched.py:answerCard(): 
+[1605552434] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 89, 'factor': 2500, 'flags': 0, 'id': 1603813633116, 'ivl': 10, 'lapses': 0, 'left': 1001, 'mod': 1604595465, 'nid': 1603813466560, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 99}
+[1605552437] sched.py:answerCard(): 
+[1605552437] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 87, 'factor': 2500, 'flags': 0, 'id': 1603902105800, 'ivl': 8, 'lapses': 0, 'left': 1001, 'mod': 1604595509, 'nid': 1603902023389, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 99}
+[1605552443] sched.py:answerCard(): 
+[1605552443] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 88, 'factor': 2500, 'flags': 0, 'id': 1603908428979, 'ivl': 9, 'lapses': 0, 'left': 1001, 'mod': 1604595459, 'nid': 1603907911456, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 99}
+[1605552459] sched.py:answerCard(): 
+[1605552459] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 89, 'factor': 2500, 'flags': 0, 'id': 1603799410143, 'ivl': 10, 'lapses': 0, 'left': 1001, 'mod': 1604595411, 'nid': 1603798275129, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 99}
+[1605552471] sched.py:answerCard(): 
+[1605552471] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 88, 'factor': 2500, 'flags': 0, 'id': 1604858554090, 'ivl': 2, 'lapses': 0, 'left': 1001, 'mod': 1605193115, 'nid': 1604858283021, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 106}
+[1605552492] sched.py:answerCard(): 
+[1605552492] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 89, 'factor': 2500, 'flags': 0, 'id': 1604857879270, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1605193097, 'nid': 1604857516437, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 106}
+[1605552518] sched.py:answerCard(): 
+[1605552518] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 88, 'factor': 2500, 'flags': 0, 'id': 1603814295398, 'ivl': 9, 'lapses': 0, 'left': 1001, 'mod': 1604595449, 'nid': 1603813779571, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 99}
+[1605552543] sched.py:answerCard(): 
+[1605552543] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 88, 'factor': 2500, 'flags': 0, 'id': 1603901948256, 'ivl': 9, 'lapses': 0, 'left': 1001, 'mod': 1604595420, 'nid': 1603901757535, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 99}
+[1605552550] sched.py:answerCard(): 
+[1605552550] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 89, 'factor': 2500, 'flags': 0, 'id': 1604858245156, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1605193085, 'nid': 1604857879361, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 106}
+[1605552559] sched.py:answerCard(): 
+[1605552559] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 88, 'factor': 2500, 'flags': 0, 'id': 1603813192876, 'ivl': 9, 'lapses': 0, 'left': 1001, 'mod': 1604595557, 'nid': 1603812868186, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 99}
+[1605552567] sched.py:answerCard(): 
+[1605552567] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 88, 'factor': 2500, 'flags': 0, 'id': 1604857322933, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1605026258, 'nid': 1604857126084, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 104}
+[1605552572] sched.py:answerCard(): 
+[1605552572] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 87, 'factor': 2500, 'flags': 0, 'id': 1605193301894, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605262963, 'nid': 1605193203030, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 107}
+[1605552581] sched.py:answerCard(): 
+[1605552581] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 89, 'factor': 2500, 'flags': 0, 'id': 1604857126062, 'ivl': 5, 'lapses': 0, 'left': 1001, 'mod': 1605026155, 'nid': 1604857034473, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 104}
+[1605552587] sched.py:answerCard(): 
+[1605552587] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 89, 'factor': 2500, 'flags': 0, 'id': 1603902398288, 'ivl': 10, 'lapses': 0, 'left': 1001, 'mod': 1604595481, 'nid': 1603902203860, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 99}
+[1605552596] sched.py:answerCard(): 
+[1605552596] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 87, 'factor': 2500, 'flags': 0, 'id': 1603798190424, 'ivl': 8, 'lapses': 0, 'left': 1001, 'mod': 1604595490, 'nid': 1603797915792, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 99}
+[1605552604] sched.py:answerCard(): 
+[1605552604] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 1605553092, 'factor': 2300, 'flags': 0, 'id': 1604858554090, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1605552492, 'nid': 1604858283021, 'odid': 0, 'odue': 91, 'ord': 0, 'queue': 1, 'reps': 4, 'type': 2, 'usn': -1}
+[1605552610] sched.py:answerCard(): 
+[1605552610] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 1605553118, 'factor': 2300, 'flags': 0, 'id': 1604857879270, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1605552518, 'nid': 1604857516437, 'odid': 0, 'odue': 91, 'ord': 0, 'queue': 1, 'reps': 4, 'type': 2, 'usn': -1}
+[1605552626] sched.py:answerCard(): 
+[1605552626] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 1605553143, 'factor': 2300, 'flags': 0, 'id': 1603814295398, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1605552543, 'nid': 1603813779571, 'odid': 0, 'odue': 91, 'ord': 0, 'queue': 1, 'reps': 5, 'type': 2, 'usn': -1}
+[1605552639] sched.py:answerCard(): 
+[1605552663] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 87, 'factor': 2500, 'flags': 0, 'id': 1598629834206, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605193842, 'nid': 1598629740238, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 106}
+[1605552671] sched.py:answerCard(): 
+[1605552671] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 87, 'factor': 2500, 'flags': 0, 'id': 1598628135594, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605193774, 'nid': 1598627980544, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 106}
+[1605552675] sched.py:answerCard(): 
+[1605552675] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 90, 'factor': 2500, 'flags': 0, 'id': 1598626571360, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1605193649, 'nid': 1598626449881, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 106}
+[1605552681] sched.py:answerCard(): 
+[1605552681] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 87, 'factor': 2500, 'flags': 0, 'id': 1598630780809, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605193874, 'nid': 1598630629923, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 106}
+[1605552690] sched.py:answerCard(): 
+[1605552690] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 87, 'factor': 2500, 'flags': 0, 'id': 1598630587327, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605193864, 'nid': 1598630447227, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 106}
+[1605552695] sched.py:answerCard(): 
+[1605552695] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 112, 'factor': 0, 'flags': 0, 'id': 1598630851376, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1598630851, 'nid': 1598630809619, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 27}
+[1605552701] sched.py:answerCard(): 
+[1605552701] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 89, 'factor': 2500, 'flags': 0, 'id': 1598628878001, 'ivl': 3, 'lapses': 0, 'left': 2002, 'mod': 1605193553, 'nid': 1598628835861, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 1, 'type': 2, 'usn': 106}
+[1605552710] sched.py:answerCard(): 
+[1605552710] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 87, 'factor': 2500, 'flags': 0, 'id': 1598629240377, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605193828, 'nid': 1598629205139, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 106}
+[1605552720] sched.py:answerCard(): 
+[1605552720] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 89, 'factor': 2500, 'flags': 0, 'id': 1598629154424, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1605193825, 'nid': 1598629007770, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 106}
+[1605552734] sched.py:answerCard(): 
+[1605552734] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 87, 'factor': 2500, 'flags': 0, 'id': 1598629655512, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605193838, 'nid': 1598629436271, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 106}
+[1605552741] sched.py:answerCard(): 
+[1605552741] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 87, 'factor': 2500, 'flags': 0, 'id': 1598630134118, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605193857, 'nid': 1598629939791, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 106}
+[1605552748] sched.py:answerCard(): 
+[1605552748] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 89, 'factor': 2500, 'flags': 0, 'id': 1598627201988, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1605193760, 'nid': 1598626872115, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 106}
+[1605552754] sched.py:answerCard(): 
+[1605552754] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 90, 'factor': 2500, 'flags': 0, 'id': 1598628779971, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1605193821, 'nid': 1598628630730, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 106}
+[1605552760] sched.py:answerCard(): 
+[1605552760] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 87, 'factor': 2500, 'flags': 0, 'id': 1598628319641, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605193811, 'nid': 1598628158271, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 106}
+[1605552765] sched.py:answerCard(): 
+[1605552765] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 90, 'factor': 2500, 'flags': 0, 'id': 1598629436256, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1605193834, 'nid': 1598629273595, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 106}
+[1605552792] sched.py:answerCard(): 
+[1605552792] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 159, 'factor': 0, 'flags': 0, 'id': 1600342531016, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1600342531, 'nid': 1600342214429, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 47}
+[1605552800] sched.py:answerCard(): 
+[1605552800] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 87, 'factor': 2500, 'flags': 0, 'id': 1598630417022, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605193860, 'nid': 1598630172920, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 106}
+[1605552811] sched.py:answerCard(): 
+[1605552811] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 87, 'factor': 2500, 'flags': 0, 'id': 1598627453953, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605193763, 'nid': 1598627287573, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 106}
+[1605552825] sched.py:answerCard(): 
+[1605552825] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 89, 'factor': 2500, 'flags': 0, 'id': 1598627732780, 'ivl': 3, 'lapses': 0, 'left': 2002, 'mod': 1605193439, 'nid': 1598627590361, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 1, 'type': 2, 'usn': 106}
+[1605552834] sched.py:answerCard(): 
+[1605552834] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 87, 'factor': 2500, 'flags': 0, 'id': 1598627930807, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605193771, 'nid': 1598627774040, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 106}
+[1605552839] sched.py:answerCard(): 
+[1605552839] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 1605553301, 'factor': 0, 'flags': 0, 'id': 1598630851376, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605552701, 'nid': 1598630809619, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605552845] sched.py:answerCard(): 
+[1605552845] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 1605553400, 'factor': 0, 'flags': 0, 'id': 1600342531016, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605552800, 'nid': 1600342214429, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605552850] sched.py:answerCard(): 
+[1605624036] collection.py:__init__(): /home/user/.local/share/Anki2/Mathematics/collection.anki2, 2.1.26
+[1605624036] sched.py:_updateCutoff(): 91, 1605708000
+[1605624215] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 91, 'factor': 2500, 'flags': 0, 'id': 1598626715443, 'ivl': 5, 'lapses': 0, 'left': 1001, 'mod': 1605193722, 'nid': 1598626581120, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 106}
+[1605624235] sched.py:answerCard(): 
+[1605624235] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 91, 'factor': 2500, 'flags': 0, 'id': 1598630851376, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605552845, 'nid': 1598630809619, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 111}
+[1605624241] sched.py:answerCard(): 
+[1605624241] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 91, 'factor': 2500, 'flags': 0, 'id': 1600342531016, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605552850, 'nid': 1600342214429, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 111}
+[1605624246] sched.py:answerCard(): 
+[1605624246] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 91, 'factor': 2500, 'flags': 0, 'id': 1598628589736, 'ivl': 5, 'lapses': 0, 'left': 2002, 'mod': 1605193505, 'nid': 1598628517719, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 1, 'type': 2, 'usn': 106}
+[1605624249] sched.py:answerCard(): 
+[1605624254] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 91, 'factor': 2500, 'flags': 0, 'id': 1603797152873, 'ivl': 12, 'lapses': 0, 'left': 1001, 'mod': 1604595504, 'nid': 1603796998033, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 99}
+[1605624261] sched.py:answerCard(): 
+[1605624261] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 91, 'factor': 2500, 'flags': 0, 'id': 1603907625509, 'ivl': 12, 'lapses': 0, 'left': 1001, 'mod': 1604595484, 'nid': 1603907417863, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 99}
+[1605624264] sched.py:answerCard(): 
+[1605624264] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 91, 'factor': 2300, 'flags': 0, 'id': 1603797760454, 'ivl': 7, 'lapses': 1, 'left': 1001, 'mod': 1605025939, 'nid': 1603797418582, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': 104}
+[1605624274] sched.py:answerCard(): 
+[1605624274] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 91, 'factor': 2300, 'flags': 0, 'id': 1604857879270, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1605552626, 'nid': 1604857516437, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': 111}
+[1605624293] sched.py:answerCard(): 
+[1605624293] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 91, 'factor': 2500, 'flags': 0, 'id': 1603815959246, 'ivl': 12, 'lapses': 0, 'left': 1001, 'mod': 1604595571, 'nid': 1603814561176, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 99}
+[1605624302] sched.py:answerCard(): 
+[1605624302] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 91, 'factor': 2300, 'flags': 0, 'id': 1603814295398, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1605552639, 'nid': 1603813779571, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': 111}
+[1605624315] sched.py:answerCard(): 
+[1605624315] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 91, 'factor': 2300, 'flags': 0, 'id': 1604858554090, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1605552610, 'nid': 1604858283021, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': 111}
+[1605624322] sched.py:answerCard(): 
+[1605624322] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 1605624874, 'factor': 2100, 'flags': 0, 'id': 1603797760454, 'ivl': 1, 'lapses': 2, 'left': 1001, 'mod': 1605624274, 'nid': 1603797418582, 'odid': 0, 'odue': 92, 'ord': 0, 'queue': 1, 'reps': 7, 'type': 2, 'usn': -1}
+[1605624335] sched.py:answerCard(): 
+[1605624335] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 1605624902, 'factor': 2300, 'flags': 0, 'id': 1603815959246, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1605624302, 'nid': 1603814561176, 'odid': 0, 'odue': 92, 'ord': 0, 'queue': 1, 'reps': 5, 'type': 2, 'usn': -1}
+[1605624344] sched.py:answerCard(): 
+[1605624579] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 91, 'factor': 2300, 'flags': 0, 'id': 1603205771729, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1605552386, 'nid': 1603205532220, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': 111}
+[1605624590] sched.py:answerCard(): 
+[1605624591] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 91, 'factor': 2300, 'flags': 0, 'id': 1604310377134, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1605552361, 'nid': 1604310204292, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': 111}
+[1605624602] sched.py:answerCard(): 
+[1605624602] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 91, 'factor': 2300, 'flags': 0, 'id': 1604417768871, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1605552401, 'nid': 1604417650625, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': 111}
+[1605624611] sched.py:answerCard(): 
+[1605624611] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 91, 'factor': 2300, 'flags': 0, 'id': 1604310543357, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1605552410, 'nid': 1604310377234, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': 111}
+[1605624616] sched.py:answerCard(): 
+[1605624616] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 91, 'factor': 2300, 'flags': 0, 'id': 1604310142557, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1605552393, 'nid': 1604310017560, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': 111}
+[1605624623] sched.py:answerCard(): 
+[1605624623] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 91, 'factor': 2300, 'flags': 0, 'id': 1604310875664, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1605552375, 'nid': 1604310724523, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': 111}
+[1605624627] sched.py:answerCard(): 
+[1605624627] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 91, 'factor': 2300, 'flags': 0, 'id': 1604308906046, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1605552406, 'nid': 1604308845161, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': 111}
+[1605624673] sched.py:answerCard(): 
+[1605624673] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 91, 'factor': 2500, 'flags': 0, 'id': 1602154958852, 'ivl': 22, 'lapses': 0, 'left': 1001, 'mod': 1603792063, 'nid': 1602154621364, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': 84}
+[1605624686] sched.py:answerCard(): 
+[1605630265] collection.py:__init__(): /home/user/.local/share/Anki2/Mathematics/collection.anki2, 2.1.26
+[1605630265] sched.py:_updateCutoff(): 91, 1605708000
+[1605630516] collection.py:__init__(): /home/user/.local/share/Anki2/Mathematics/collection.anki2, 2.1.26
+[1605630516] sched.py:_updateCutoff(): 91, 1605708000
+[1605782171] collection.py:__init__(): /home/user/.local/share/Anki2/Mathematics/collection.anki2, 2.1.26
+[1605782171] sched.py:_updateCutoff(): 92, 1605794400
+[1605783688] schedv2.py:getCard(): {'data': '', 'did': 1605782203458, 'due': 1386, 'factor': 0, 'flags': 0, 'id': 1605783646586, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605783646, 'nid': 1605783595802, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605783692] sched.py:answerCard(): 
+[1605783692] schedv2.py:getCard(): {'data': '', 'did': 1605782203458, 'due': 1386, 'factor': 0, 'flags': 0, 'id': 1605783646587, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605783646, 'nid': 1605783595802, 'odid': 0, 'odue': 0, 'ord': 1, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605783694] sched.py:answerCard(): 
+[1605783694] schedv2.py:getCard(): {'data': '', 'did': 1605782203458, 'due': 1386, 'factor': 0, 'flags': 0, 'id': 1605783646588, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605783646, 'nid': 1605783595802, 'odid': 0, 'odue': 0, 'ord': 2, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605783698] sched.py:answerCard(): 
+[1605783698] schedv2.py:getCard(): {'data': '', 'did': 1605782203458, 'due': 1386, 'factor': 0, 'flags': 0, 'id': 1605783646589, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605783646, 'nid': 1605783595802, 'odid': 0, 'odue': 0, 'ord': 9, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605783700] sched.py:answerCard(): 
+[1605783700] schedv2.py:getCard(): {'data': '', 'did': 1605782203458, 'due': 1605784292, 'factor': 0, 'flags': 0, 'id': 1605783646586, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605783692, 'nid': 1605783595802, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605784422] schedv2.py:getCard(): {'data': '', 'did': 1605782203458, 'due': 1605784292, 'factor': 0, 'flags': 0, 'id': 1605783646586, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605783692, 'nid': 1605783595802, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605784433] sched.py:answerCard(): 
+[1605784433] schedv2.py:getCard(): {'data': '', 'did': 1605782203458, 'due': 1605784294, 'factor': 0, 'flags': 0, 'id': 1605783646587, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605783694, 'nid': 1605783595802, 'odid': 0, 'odue': 0, 'ord': 1, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605784434] sched.py:answerCard(): 
+[1605784434] schedv2.py:getCard(): {'data': '', 'did': 1605782203458, 'due': 1605784298, 'factor': 0, 'flags': 0, 'id': 1605783646588, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605783698, 'nid': 1605783595802, 'odid': 0, 'odue': 0, 'ord': 2, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605784435] sched.py:answerCard(): 
+[1605784435] schedv2.py:getCard(): {'data': '', 'did': 1605782203458, 'due': 1605784300, 'factor': 0, 'flags': 0, 'id': 1605783646589, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605783700, 'nid': 1605783595802, 'odid': 0, 'odue': 0, 'ord': 9, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605784436] sched.py:answerCard(): 
+[1605784436] schedv2.py:getCard(): {'data': '', 'did': 1605782203458, 'due': 1387, 'factor': 0, 'flags': 0, 'id': 1605784421377, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605784421, 'nid': 1605783843589, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605784437] sched.py:answerCard(): 
+[1605784437] schedv2.py:getCard(): {'data': '', 'did': 1605782203458, 'due': 1387, 'factor': 0, 'flags': 0, 'id': 1605784421378, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605784421, 'nid': 1605783843589, 'odid': 0, 'odue': 0, 'ord': 1, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605784439] sched.py:answerCard(): 
+[1605784439] schedv2.py:getCard(): {'data': '', 'did': 1605782203458, 'due': 1387, 'factor': 0, 'flags': 0, 'id': 1605784421379, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605784421, 'nid': 1605783843589, 'odid': 0, 'odue': 0, 'ord': 2, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605784440] sched.py:answerCard(): 
+[1605784440] schedv2.py:getCard(): {'data': '', 'did': 1605782203458, 'due': 1387, 'factor': 0, 'flags': 0, 'id': 1605784421380, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605784421, 'nid': 1605783843589, 'odid': 0, 'odue': 0, 'ord': 9, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605784441] sched.py:answerCard(): 
+[1605784441] schedv2.py:getCard(): {'data': '', 'did': 1605782203458, 'due': 1605785037, 'factor': 0, 'flags': 0, 'id': 1605784421377, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605784437, 'nid': 1605783843589, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605784442] sched.py:answerCard(): 
+[1605784442] schedv2.py:getCard(): {'data': '', 'did': 1605782203458, 'due': 1605785039, 'factor': 0, 'flags': 0, 'id': 1605784421378, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605784439, 'nid': 1605783843589, 'odid': 0, 'odue': 0, 'ord': 1, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605784444] sched.py:answerCard(): 
+[1605784444] schedv2.py:getCard(): {'data': '', 'did': 1605782203458, 'due': 1605785040, 'factor': 0, 'flags': 0, 'id': 1605784421379, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605784440, 'nid': 1605783843589, 'odid': 0, 'odue': 0, 'ord': 2, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605784445] sched.py:answerCard(): 
+[1605784445] schedv2.py:getCard(): {'data': '', 'did': 1605782203458, 'due': 1605785041, 'factor': 0, 'flags': 0, 'id': 1605784421380, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605784441, 'nid': 1605783843589, 'odid': 0, 'odue': 0, 'ord': 9, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605784447] sched.py:answerCard(): 
+[1605787712] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 92, 'factor': 2300, 'flags': 0, 'id': 1603815959246, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1605624344, 'nid': 1603814561176, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': 113}
+[1605787732] sched.py:answerCard(): 
+[1605787732] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1388, 'factor': 0, 'flags': 0, 'id': 1605785334924, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605785334, 'nid': 1605784825306, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605787756] sched.py:answerCard(): 
+[1605787756] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 92, 'factor': 2100, 'flags': 0, 'id': 1603797760454, 'ivl': 1, 'lapses': 2, 'left': 1001, 'mod': 1605624335, 'nid': 1603797418582, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': 113}
+[1605787761] sched.py:answerCard(): 
+[1605787761] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1388, 'factor': 0, 'flags': 0, 'id': 1605785334925, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605785334, 'nid': 1605784825306, 'odid': 0, 'odue': 0, 'ord': 1, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605787763] sched.py:answerCard(): 
+[1605787763] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1389, 'factor': 0, 'flags': 0, 'id': 1605786068734, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605786068, 'nid': 1605785335058, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605787764] sched.py:answerCard(): 
+[1605787764] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1390, 'factor': 0, 'flags': 0, 'id': 1605786820271, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605786820, 'nid': 1605786315604, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605787765] sched.py:answerCard(): 
+[1605787765] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1391, 'factor': 0, 'flags': 0, 'id': 1605787008992, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605787008, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 9, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605787773] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1388, 'factor': 0, 'flags': 0, 'id': 1605785334926, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605785334, 'nid': 1605784825306, 'odid': 0, 'odue': 0, 'ord': 2, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605787774] sched.py:answerCard(): 
+[1605787774] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1389, 'factor': 0, 'flags': 0, 'id': 1605786068735, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605786068, 'nid': 1605785335058, 'odid': 0, 'odue': 0, 'ord': 1, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605787775] sched.py:answerCard(): 
+[1605787775] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1390, 'factor': 0, 'flags': 0, 'id': 1605786820272, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605786820, 'nid': 1605786315604, 'odid': 0, 'odue': 0, 'ord': 1, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605787776] sched.py:answerCard(): 
+[1605787776] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1391, 'factor': 0, 'flags': 0, 'id': 1605787008992, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605787008, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 9, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605787777] sched.py:answerCard(): 
+[1605787777] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1388, 'factor': 0, 'flags': 0, 'id': 1605785334927, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605785334, 'nid': 1605784825306, 'odid': 0, 'odue': 0, 'ord': 3, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605787778] sched.py:answerCard(): 
+[1605787778] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1389, 'factor': 0, 'flags': 0, 'id': 1605786068736, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605786068, 'nid': 1605785335058, 'odid': 0, 'odue': 0, 'ord': 2, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605787779] sched.py:answerCard(): 
+[1605787779] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1390, 'factor': 0, 'flags': 0, 'id': 1605786820273, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605786820, 'nid': 1605786315604, 'odid': 0, 'odue': 0, 'ord': 2, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605787781] sched.py:answerCard(): 
+[1605787781] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1388, 'factor': 0, 'flags': 0, 'id': 1605785334928, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605785334, 'nid': 1605784825306, 'odid': 0, 'odue': 0, 'ord': 4, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605787783] sched.py:answerCard(): 
+[1605787783] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1389, 'factor': 0, 'flags': 0, 'id': 1605786068737, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605786068, 'nid': 1605785335058, 'odid': 0, 'odue': 0, 'ord': 3, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605787787] sched.py:answerCard(): 
+[1605787787] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1390, 'factor': 0, 'flags': 0, 'id': 1605786820274, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605786820, 'nid': 1605786315604, 'odid': 0, 'odue': 0, 'ord': 9, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605787788] sched.py:answerCard(): 
+[1605787788] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1388, 'factor': 0, 'flags': 0, 'id': 1605785334929, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605785334, 'nid': 1605784825306, 'odid': 0, 'odue': 0, 'ord': 9, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605787790] sched.py:answerCard(): 
+[1605787790] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1389, 'factor': 0, 'flags': 0, 'id': 1605786068738, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605786068, 'nid': 1605785335058, 'odid': 0, 'odue': 0, 'ord': 4, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605787792] sched.py:answerCard(): 
+[1605787792] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1389, 'factor': 0, 'flags': 0, 'id': 1605786068739, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605786068, 'nid': 1605785335058, 'odid': 0, 'odue': 0, 'ord': 9, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605787793] sched.py:answerCard(): 
+[1605787793] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605788356, 'factor': 0, 'flags': 0, 'id': 1605785334924, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605787756, 'nid': 1605784825306, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605787794] sched.py:answerCard(): 
+[1605787794] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605788363, 'factor': 0, 'flags': 0, 'id': 1605785334925, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605787763, 'nid': 1605784825306, 'odid': 0, 'odue': 0, 'ord': 1, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605787795] sched.py:answerCard(): 
+[1605787795] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605788364, 'factor': 0, 'flags': 0, 'id': 1605786068734, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605787764, 'nid': 1605785335058, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605787796] sched.py:answerCard(): 
+[1605787796] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605788365, 'factor': 0, 'flags': 0, 'id': 1605786820271, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605787765, 'nid': 1605786315604, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605787797] sched.py:answerCard(): 
+[1605787797] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605788374, 'factor': 0, 'flags': 0, 'id': 1605785334926, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605787774, 'nid': 1605784825306, 'odid': 0, 'odue': 0, 'ord': 2, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605787798] sched.py:answerCard(): 
+[1605787798] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605788375, 'factor': 0, 'flags': 0, 'id': 1605786068735, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605787775, 'nid': 1605785335058, 'odid': 0, 'odue': 0, 'ord': 1, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605787798] sched.py:answerCard(): 
+[1605787798] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605788376, 'factor': 0, 'flags': 0, 'id': 1605786820272, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605787776, 'nid': 1605786315604, 'odid': 0, 'odue': 0, 'ord': 1, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605787799] sched.py:answerCard(): 
+[1605787799] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605788377, 'factor': 0, 'flags': 0, 'id': 1605787008992, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605787777, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 9, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605787800] sched.py:answerCard(): 
+[1605787800] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605788378, 'factor': 0, 'flags': 0, 'id': 1605785334927, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605787778, 'nid': 1605784825306, 'odid': 0, 'odue': 0, 'ord': 3, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605789411] sched.py:answerCard(): 
+[1605789411] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605788379, 'factor': 0, 'flags': 0, 'id': 1605786068736, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605787779, 'nid': 1605785335058, 'odid': 0, 'odue': 0, 'ord': 2, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605789413] sched.py:answerCard(): 
+[1605789413] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605788381, 'factor': 0, 'flags': 0, 'id': 1605786820273, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605787781, 'nid': 1605786315604, 'odid': 0, 'odue': 0, 'ord': 2, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605789416] sched.py:answerCard(): 
+[1605789416] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605788383, 'factor': 0, 'flags': 0, 'id': 1605785334928, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605787783, 'nid': 1605784825306, 'odid': 0, 'odue': 0, 'ord': 4, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605789418] sched.py:answerCard(): 
+[1605789418] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605788387, 'factor': 0, 'flags': 0, 'id': 1605786068737, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605787787, 'nid': 1605785335058, 'odid': 0, 'odue': 0, 'ord': 3, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605789421] sched.py:answerCard(): 
+[1605789421] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605788388, 'factor': 0, 'flags': 0, 'id': 1605786820274, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605787788, 'nid': 1605786315604, 'odid': 0, 'odue': 0, 'ord': 9, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605789422] sched.py:answerCard(): 
+[1605789422] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605788390, 'factor': 0, 'flags': 0, 'id': 1605785334929, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605787790, 'nid': 1605784825306, 'odid': 0, 'odue': 0, 'ord': 9, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605789424] sched.py:answerCard(): 
+[1605789424] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605788392, 'factor': 0, 'flags': 0, 'id': 1605786068738, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605787792, 'nid': 1605785335058, 'odid': 0, 'odue': 0, 'ord': 4, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605789441] sched.py:answerCard(): 
+[1605789441] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605788393, 'factor': 0, 'flags': 0, 'id': 1605786068739, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605787793, 'nid': 1605785335058, 'odid': 0, 'odue': 0, 'ord': 9, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605789443] sched.py:answerCard(): 
+[1605794536] sched.py:_updateCutoff(): 93, 1605880800
+[1605794536] sched.py:unburyCards(): []
+[1605808004] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1392, 'factor': 0, 'flags': 0, 'id': 1605791683774, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605791683, 'nid': 1605790098936, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605808027] sched.py:answerCard(): 
+[1605808027] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 93, 'factor': 2500, 'flags': 0, 'id': 1605786820274, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605789422, 'nid': 1605786315604, 'odid': 0, 'odue': 0, 'ord': 9, 'queue': 2, 'reps': 2, 'type': 2, 'usn': -1}
+[1605808056] sched.py:answerCard(): 
+[1605808056] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1393, 'factor': 0, 'flags': 0, 'id': 1605806055602, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605806055, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605808069] sched.py:answerCard(): 
+[1605808069] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 93, 'factor': 2500, 'flags': 0, 'id': 1605786068739, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605789443, 'nid': 1605785335058, 'odid': 0, 'odue': 0, 'ord': 9, 'queue': 2, 'reps': 2, 'type': 2, 'usn': -1}
+[1605808154] sched.py:answerCard(): 
+[1605808154] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605808087, 'factor': 0, 'flags': 0, 'id': 1605791683774, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1605808027, 'nid': 1605790098936, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605808185] sched.py:answerCard(): 
+[1605808185] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 93, 'factor': 2500, 'flags': 0, 'id': 1605785334925, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605787795, 'nid': 1605784825306, 'odid': 0, 'odue': 0, 'ord': 1, 'queue': 2, 'reps': 2, 'type': 2, 'usn': -1}
+[1605808203] sched.py:answerCard(): 
+[1605808203] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1394, 'factor': 0, 'flags': 0, 'id': 1605807899147, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605807899, 'nid': 1605807438760, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605808223] sched.py:answerCard(): 
+[1605808223] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 93, 'factor': 2500, 'flags': 0, 'id': 1605787008992, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605787800, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 9, 'queue': 2, 'reps': 2, 'type': 2, 'usn': -1}
+[1605808260] sched.py:answerCard(): 
+[1605808261] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1392, 'factor': 0, 'flags': 0, 'id': 1605791683776, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605791683, 'nid': 1605790098936, 'odid': 0, 'odue': 0, 'ord': 1, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605808267] sched.py:answerCard(): 
+[1605808267] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 93, 'factor': 2500, 'flags': 0, 'id': 1605786068736, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605789413, 'nid': 1605785335058, 'odid': 0, 'odue': 0, 'ord': 2, 'queue': 2, 'reps': 2, 'type': 2, 'usn': -1}
+[1605808322] sched.py:answerCard(): 
+[1605808322] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1393, 'factor': 0, 'flags': 0, 'id': 1605806218234, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605806218, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 1, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605808345] sched.py:answerCard(): 
+[1605808345] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 93, 'factor': 2500, 'flags': 0, 'id': 1605786068737, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605789421, 'nid': 1605785335058, 'odid': 0, 'odue': 0, 'ord': 3, 'queue': 2, 'reps': 2, 'type': 2, 'usn': -1}
+[1605808358] sched.py:answerCard(): 
+[1605808358] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1392, 'factor': 0, 'flags': 0, 'id': 1605791683777, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605791683, 'nid': 1605790098936, 'odid': 0, 'odue': 0, 'ord': 2, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605808367] sched.py:answerCard(): 
+[1605808367] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 93, 'factor': 2500, 'flags': 0, 'id': 1605786820271, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605787797, 'nid': 1605786315604, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': -1}
+[1605808372] sched.py:answerCard(): 
+[1605808372] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1393, 'factor': 0, 'flags': 0, 'id': 1605806325937, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605806325, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 2, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605808383] sched.py:answerCard(): 
+[1605808383] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 93, 'factor': 2500, 'flags': 0, 'id': 1605785334926, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605787798, 'nid': 1605784825306, 'odid': 0, 'odue': 0, 'ord': 2, 'queue': 2, 'reps': 2, 'type': 2, 'usn': -1}
+[1605808416] sched.py:answerCard(): 
+[1605808416] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1392, 'factor': 0, 'flags': 0, 'id': 1605791683778, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605791683, 'nid': 1605790098936, 'odid': 0, 'odue': 0, 'ord': 3, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605808436] sched.py:answerCard(): 
+[1605808436] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 93, 'factor': 2500, 'flags': 0, 'id': 1605786820272, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605787799, 'nid': 1605786315604, 'odid': 0, 'odue': 0, 'ord': 1, 'queue': 2, 'reps': 2, 'type': 2, 'usn': -1}
+[1605808438] sched.py:answerCard(): 
+[1605808438] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1393, 'factor': 0, 'flags': 0, 'id': 1605806438904, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605806438, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 3, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605808442] sched.py:answerCard(): 
+[1605808442] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 93, 'factor': 2500, 'flags': 0, 'id': 1605786068735, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605787798, 'nid': 1605785335058, 'odid': 0, 'odue': 0, 'ord': 1, 'queue': 2, 'reps': 2, 'type': 2, 'usn': -1}
+[1605808443] sched.py:answerCard(): 
+[1605808443] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1394, 'factor': 0, 'flags': 0, 'id': 1605807899148, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605807899, 'nid': 1605807438760, 'odid': 0, 'odue': 0, 'ord': 1, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605808445] sched.py:answerCard(): 
+[1605808445] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 93, 'factor': 2500, 'flags': 0, 'id': 1605785334924, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605787794, 'nid': 1605784825306, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': -1}
+[1605808446] sched.py:answerCard(): 
+[1605808446] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1392, 'factor': 0, 'flags': 0, 'id': 1605791683779, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605791683, 'nid': 1605790098936, 'odid': 0, 'odue': 0, 'ord': 4, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605808448] sched.py:answerCard(): 
+[1605808448] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 93, 'factor': 2500, 'flags': 0, 'id': 1605786068734, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605787796, 'nid': 1605785335058, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': -1}
+[1605808449] sched.py:answerCard(): 
+[1605808449] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1393, 'factor': 0, 'flags': 0, 'id': 1605806515649, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605806515, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 4, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605808451] sched.py:answerCard(): 
+[1605808451] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 93, 'factor': 2500, 'flags': 0, 'id': 1605785334929, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605789424, 'nid': 1605784825306, 'odid': 0, 'odue': 0, 'ord': 9, 'queue': 2, 'reps': 2, 'type': 2, 'usn': -1}
+[1605808472] sched.py:answerCard(): 
+[1605808472] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1394, 'factor': 0, 'flags': 0, 'id': 1605807899149, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605807899, 'nid': 1605807438760, 'odid': 0, 'odue': 0, 'ord': 2, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605808510] sched.py:answerCard(): 
+[1605808510] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 93, 'factor': 2500, 'flags': 0, 'id': 1605786820273, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605789416, 'nid': 1605786315604, 'odid': 0, 'odue': 0, 'ord': 2, 'queue': 2, 'reps': 2, 'type': 2, 'usn': -1}
+[1605808518] sched.py:answerCard(): 
+[1605808518] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1392, 'factor': 0, 'flags': 0, 'id': 1605791683780, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605791683, 'nid': 1605790098936, 'odid': 0, 'odue': 0, 'ord': 5, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605808558] sched.py:answerCard(): 
+[1605808558] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 93, 'factor': 2500, 'flags': 0, 'id': 1605786068738, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605789441, 'nid': 1605785335058, 'odid': 0, 'odue': 0, 'ord': 4, 'queue': 2, 'reps': 2, 'type': 2, 'usn': -1}
+[1605808561] sched.py:answerCard(): 
+[1605808561] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1393, 'factor': 0, 'flags': 0, 'id': 1605806588963, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605806588, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 5, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605808565] sched.py:answerCard(): 
+[1605808565] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 93, 'factor': 2500, 'flags': 0, 'id': 1605785334928, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605789418, 'nid': 1605784825306, 'odid': 0, 'odue': 0, 'ord': 4, 'queue': 2, 'reps': 2, 'type': 2, 'usn': -1}
+[1605808573] sched.py:answerCard(): 
+[1605808573] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1392, 'factor': 0, 'flags': 0, 'id': 1605791683781, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605791683, 'nid': 1605790098936, 'odid': 0, 'odue': 0, 'ord': 6, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605808581] sched.py:answerCard(): 
+[1605808581] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 93, 'factor': 2500, 'flags': 0, 'id': 1605785334927, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605789411, 'nid': 1605784825306, 'odid': 0, 'odue': 0, 'ord': 3, 'queue': 2, 'reps': 2, 'type': 2, 'usn': -1}
+[1605808596] sched.py:answerCard(): 
+[1605808596] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1393, 'factor': 0, 'flags': 0, 'id': 1605806667279, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605806667, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 6, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605808618] sched.py:answerCard(): 
+[1605808618] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1392, 'factor': 0, 'flags': 0, 'id': 1605791683782, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605791683, 'nid': 1605790098936, 'odid': 0, 'odue': 0, 'ord': 9, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605808621] sched.py:answerCard(): 
+[1605808621] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1393, 'factor': 0, 'flags': 0, 'id': 1605806744254, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605806744, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 7, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605808625] sched.py:answerCard(): 
+[1605808625] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1393, 'factor': 0, 'flags': 0, 'id': 1605806902928, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605806902, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 8, 'queue': 0, 'reps': 0, 'type': 0, 'usn': -1}
+[1605808692] sched.py:answerCard(): 
+[1605808693] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605808669, 'factor': 0, 'flags': 0, 'id': 1605806055602, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605808069, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605808698] sched.py:answerCard(): 
+[1605808698] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605808685, 'factor': 0, 'flags': 0, 'id': 1605806744254, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1605808625, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 7, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605808702] sched.py:answerCard(): 
+[1605808702] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605808785, 'factor': 0, 'flags': 0, 'id': 1605791683774, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605808185, 'nid': 1605790098936, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1605808715] sched.py:buryCards(): [1605791683774]
+[1605808715] sched.py:emptyDyn(): []
+[1605808715] sched.py:emptyDyn(): []
+[1605808715] schedv2.py:forgetCards(): [1605791683774]
+[1605808715] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605808823, 'factor': 0, 'flags': 0, 'id': 1605807899147, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605808223, 'nid': 1605807438760, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605808716] sched.py:buryCards(): [1605807899147]
+[1605808716] sched.py:emptyDyn(): []
+[1605808716] sched.py:emptyDyn(): []
+[1605808716] schedv2.py:forgetCards(): [1605807899147]
+[1605808716] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605808867, 'factor': 0, 'flags': 0, 'id': 1605791683776, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605808267, 'nid': 1605790098936, 'odid': 0, 'odue': 0, 'ord': 1, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605808720] sched.py:answerCard(): 
+[1605808720] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605808945, 'factor': 0, 'flags': 0, 'id': 1605806218234, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605808345, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 1, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605808722] sched.py:answerCard(): 
+[1605808722] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605808967, 'factor': 0, 'flags': 0, 'id': 1605791683777, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605808367, 'nid': 1605790098936, 'odid': 0, 'odue': 0, 'ord': 2, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605808724] sched.py:answerCard(): 
+[1605808724] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605808983, 'factor': 0, 'flags': 0, 'id': 1605806325937, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605808383, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 2, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605808725] sched.py:answerCard(): 
+[1605808725] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605809036, 'factor': 0, 'flags': 0, 'id': 1605791683778, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605808436, 'nid': 1605790098936, 'odid': 0, 'odue': 0, 'ord': 3, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605808727] sched.py:answerCard(): 
+[1605808727] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605809042, 'factor': 0, 'flags': 0, 'id': 1605806438904, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605808442, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 3, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605808738] sched.py:answerCard(): 
+[1605808738] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605809045, 'factor': 0, 'flags': 0, 'id': 1605807899148, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605808445, 'nid': 1605807438760, 'odid': 0, 'odue': 0, 'ord': 1, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605808748] sched.py:answerCard(): 
+[1605808748] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605809048, 'factor': 0, 'flags': 0, 'id': 1605791683779, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605808448, 'nid': 1605790098936, 'odid': 0, 'odue': 0, 'ord': 4, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605808776] sched.py:answerCard(): 
+[1605808776] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605809051, 'factor': 0, 'flags': 0, 'id': 1605806515649, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605808451, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 4, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605808944] sched.py:answerCard(): 
+[1605808944] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605809110, 'factor': 0, 'flags': 0, 'id': 1605807899149, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605808510, 'nid': 1605807438760, 'odid': 0, 'odue': 0, 'ord': 2, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605808946] sched.py:answerCard(): 
+[1605808946] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605809158, 'factor': 0, 'flags': 0, 'id': 1605791683780, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605808558, 'nid': 1605790098936, 'odid': 0, 'odue': 0, 'ord': 5, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605808950] sched.py:answerCard(): 
+[1605808950] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605809165, 'factor': 0, 'flags': 0, 'id': 1605806588963, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605808565, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 5, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605808953] sched.py:answerCard(): 
+[1605808953] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605809181, 'factor': 0, 'flags': 0, 'id': 1605791683781, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605808581, 'nid': 1605790098936, 'odid': 0, 'odue': 0, 'ord': 6, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605808955] sched.py:answerCard(): 
+[1605808955] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605809218, 'factor': 0, 'flags': 0, 'id': 1605806667279, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605808618, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 6, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605808957] sched.py:answerCard(): 
+[1605808957] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605809221, 'factor': 0, 'flags': 0, 'id': 1605791683782, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605808621, 'nid': 1605790098936, 'odid': 0, 'odue': 0, 'ord': 9, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605808959] sched.py:answerCard(): 
+[1605808959] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605809293, 'factor': 0, 'flags': 0, 'id': 1605806902928, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605808693, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 8, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605808960] sched.py:answerCard(): 
+[1605808960] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605809302, 'factor': 0, 'flags': 0, 'id': 1605806744254, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605808702, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 7, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1605808962] sched.py:answerCard(): 
+[1605886876] collection.py:__init__(): /home/user/.local/share/Anki2/Mathematics/collection.anki2, 2.1.26
+[1605886876] sched.py:_updateCutoff(): 94, 1605967200
+[1605887785] schedv2.py:getCard(): {'data': '', 'did': 1605782203458, 'due': 93, 'factor': 2500, 'flags': 0, 'id': 1605783646588, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605784435, 'nid': 1605783595802, 'odid': 0, 'odue': 0, 'ord': 2, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 118}
+[1605887806] sched.py:answerCard(): 
+[1605887806] schedv2.py:getCard(): {'data': '', 'did': 1605782203458, 'due': 93, 'factor': 2500, 'flags': 0, 'id': 1605784421380, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605784447, 'nid': 1605783843589, 'odid': 0, 'odue': 0, 'ord': 9, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 118}
+[1605887824] sched.py:answerCard(): 
+[1605887824] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 344, 'factor': 0, 'flags': 0, 'id': 1605627424260, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605627424, 'nid': 1605627320407, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 113}
+[1605887830] sched.py:answerCard(): 
+[1605887830] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 94, 'factor': 2300, 'flags': 0, 'id': 1603205771729, 'ivl': 3, 'lapses': 1, 'left': 1001, 'mod': 1605624590, 'nid': 1603205532220, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': 113}
+[1605887840] sched.py:answerCard(): 
+[1605887840] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 345, 'factor': 0, 'flags': 0, 'id': 1605627789216, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605627789, 'nid': 1605627456199, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 113}
+[1605887848] sched.py:answerCard(): 
+[1605887848] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 93, 'factor': 2300, 'flags': 0, 'id': 1604310543357, 'ivl': 2, 'lapses': 1, 'left': 1001, 'mod': 1605624616, 'nid': 1604310377234, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': 113}
+[1605887854] sched.py:answerCard(): 
+[1605887854] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 346, 'factor': 0, 'flags': 0, 'id': 1605627874110, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605627874, 'nid': 1605627789360, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 113}
+[1605887859] sched.py:answerCard(): 
+[1605887859] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 94, 'factor': 2300, 'flags': 0, 'id': 1604310377134, 'ivl': 3, 'lapses': 1, 'left': 1001, 'mod': 1605624602, 'nid': 1604310204292, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': 113}
+[1605887874] sched.py:answerCard(): 
+[1605887874] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 347, 'factor': 0, 'flags': 0, 'id': 1605628048322, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605628048, 'nid': 1605627874113, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 113}
+[1605887890] sched.py:answerCard(): 
+[1605887890] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 94, 'factor': 2300, 'flags': 0, 'id': 1604308906046, 'ivl': 3, 'lapses': 1, 'left': 1001, 'mod': 1605624673, 'nid': 1604308845161, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': 113}
+[1605887902] sched.py:answerCard(): 
+[1605887902] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 348, 'factor': 0, 'flags': 0, 'id': 1605628441583, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605628441, 'nid': 1605628145282, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 113}
+[1605887923] sched.py:answerCard(): 
+[1605887923] schedv2.py:getCard(): {'data': '', 'did': 1605782203458, 'due': 93, 'factor': 2500, 'flags': 0, 'id': 1605784421378, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605784444, 'nid': 1605783843589, 'odid': 0, 'odue': 0, 'ord': 1, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 118}
+[1605887929] sched.py:answerCard(): 
+[1605887929] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 349, 'factor': 0, 'flags': 0, 'id': 1605628506336, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605628506, 'nid': 1605628444478, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 113}
+[1605887934] sched.py:answerCard(): 
+[1605887934] schedv2.py:getCard(): {'data': '', 'did': 1605782203458, 'due': 93, 'factor': 2500, 'flags': 0, 'id': 1605783646587, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605784434, 'nid': 1605783595802, 'odid': 0, 'odue': 0, 'ord': 1, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 118}
+[1605887940] sched.py:answerCard(): 
+[1605887940] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 350, 'factor': 0, 'flags': 0, 'id': 1605628572953, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605628572, 'nid': 1605628506347, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 113}
+[1605887945] sched.py:answerCard(): 
+[1605887945] schedv2.py:getCard(): {'data': '', 'did': 1605782203458, 'due': 93, 'factor': 2500, 'flags': 0, 'id': 1605783646589, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605784436, 'nid': 1605783595802, 'odid': 0, 'odue': 0, 'ord': 9, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 118}
+[1605887954] sched.py:answerCard(): 
+[1605887954] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 351, 'factor': 0, 'flags': 0, 'id': 1605628826643, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605628826, 'nid': 1605628572962, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 113}
+[1605887965] sched.py:answerCard(): 
+[1605887965] schedv2.py:getCard(): {'data': '', 'did': 1605782203458, 'due': 93, 'factor': 2500, 'flags': 0, 'id': 1605784421379, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605784445, 'nid': 1605783843589, 'odid': 0, 'odue': 0, 'ord': 2, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 118}
+[1605887967] sched.py:answerCard(): 
+[1605887967] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 352, 'factor': 0, 'flags': 0, 'id': 1605628946490, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605628946, 'nid': 1605628826729, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 113}
+[1605887971] sched.py:answerCard(): 
+[1605887971] schedv2.py:getCard(): {'data': '', 'did': 1605782203458, 'due': 93, 'factor': 2500, 'flags': 0, 'id': 1605783646586, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605784433, 'nid': 1605783595802, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 118}
+[1605887988] sched.py:answerCard(): 
+[1605887988] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 353, 'factor': 0, 'flags': 0, 'id': 1605629024696, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605629024, 'nid': 1605628946497, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 113}
+[1605888001] sched.py:answerCard(): 
+[1605888001] schedv2.py:getCard(): {'data': '', 'did': 1605782203458, 'due': 93, 'factor': 2500, 'flags': 0, 'id': 1605784421377, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605784442, 'nid': 1605783843589, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 118}
+[1605888023] sched.py:answerCard(): 
+[1605888023] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 1605888005, 'factor': 0, 'flags': 0, 'id': 1605628572953, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1605887945, 'nid': 1605628506347, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605888042] sched.py:answerCard(): 
+[1605888042] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 354, 'factor': 0, 'flags': 0, 'id': 1605629124946, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605629124, 'nid': 1605629024701, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 113}
+[1605888057] sched.py:answerCard(): 
+[1605888057] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 355, 'factor': 0, 'flags': 0, 'id': 1605629273896, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605629273, 'nid': 1605629211230, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 113}
+[1605888059] sched.py:answerCard(): 
+[1605888059] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 356, 'factor': 0, 'flags': 0, 'id': 1605629383394, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605629383, 'nid': 1605629320120, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 113}
+[1605888065] sched.py:answerCard(): 
+[1605888065] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 357, 'factor': 0, 'flags': 0, 'id': 1605629486030, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605629486, 'nid': 1605629383410, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 113}
+[1605888084] sched.py:answerCard(): 
+[1605888084] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 358, 'factor': 0, 'flags': 0, 'id': 1605629678663, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605629678, 'nid': 1605629486109, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 113}
+[1605888097] sched.py:answerCard(): 
+[1605888097] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 359, 'factor': 0, 'flags': 0, 'id': 1605629901978, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605629901, 'nid': 1605629678670, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 113}
+[1605888103] sched.py:answerCard(): 
+[1605888103] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 360, 'factor': 0, 'flags': 0, 'id': 1605630320130, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605630320, 'nid': 1605630291863, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 114}
+[1605888107] sched.py:answerCard(): 
+[1605888107] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 1605888125, 'factor': 0, 'flags': 0, 'id': 1605629383394, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1605888065, 'nid': 1605629320120, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605888110] sched.py:answerCard(): 
+[1605888110] schedv2.py:getCard(): {'data': '', 'did': 1605782203458, 'due': 1605888424, 'factor': 2300, 'flags': 0, 'id': 1605784421380, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1605887824, 'nid': 1605783843589, 'odid': 0, 'odue': 95, 'ord': 9, 'queue': 1, 'reps': 3, 'type': 2, 'usn': -1}
+[1605888122] sched.py:answerCard(): 
+[1605888122] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 1605888474, 'factor': 2100, 'flags': 0, 'id': 1604310377134, 'ivl': 1, 'lapses': 2, 'left': 1001, 'mod': 1605887874, 'nid': 1604310204292, 'odid': 0, 'odue': 95, 'ord': 0, 'queue': 1, 'reps': 7, 'type': 2, 'usn': -1}
+[1605888131] sched.py:answerCard(): 
+[1605888131] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 1605888490, 'factor': 0, 'flags': 0, 'id': 1605628048322, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605887890, 'nid': 1605627874113, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605888136] sched.py:answerCard(): 
+[1605888136] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 1605888523, 'factor': 0, 'flags': 0, 'id': 1605628441583, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605887923, 'nid': 1605628145282, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605888141] sched.py:answerCard(): 
+[1605888141] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 1605888534, 'factor': 0, 'flags': 0, 'id': 1605628506336, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605887934, 'nid': 1605628444478, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605888144] sched.py:answerCard(): 
+[1605888144] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 1605888565, 'factor': 0, 'flags': 0, 'id': 1605628826643, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605887965, 'nid': 1605628572962, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605888149] sched.py:answerCard(): 
+[1605888149] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 1605888571, 'factor': 0, 'flags': 0, 'id': 1605628946490, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605887971, 'nid': 1605628826729, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605888152] sched.py:answerCard(): 
+[1605888152] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 1605888601, 'factor': 0, 'flags': 0, 'id': 1605629024696, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605888001, 'nid': 1605628946497, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605888156] sched.py:answerCard(): 
+[1605888156] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 1605888642, 'factor': 0, 'flags': 0, 'id': 1605628572953, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605888042, 'nid': 1605628506347, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1605888166] sched.py:answerCard(): 
+[1605888166] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 1605888657, 'factor': 0, 'flags': 0, 'id': 1605629124946, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605888057, 'nid': 1605629024701, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605888170] sched.py:answerCard(): 
+[1605888170] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 1605888684, 'factor': 0, 'flags': 0, 'id': 1605629486030, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605888084, 'nid': 1605629383410, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605888181] sched.py:answerCard(): 
+[1605888181] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 1605888697, 'factor': 0, 'flags': 0, 'id': 1605629678663, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605888097, 'nid': 1605629486109, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605888187] sched.py:answerCard(): 
+[1605888187] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 1605888703, 'factor': 0, 'flags': 0, 'id': 1605629901978, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605888103, 'nid': 1605629678670, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605888198] sched.py:answerCard(): 
+[1605888198] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 1605888707, 'factor': 0, 'flags': 0, 'id': 1605630320130, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605888107, 'nid': 1605630291863, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605888200] sched.py:answerCard(): 
+[1605888200] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 1605888710, 'factor': 0, 'flags': 0, 'id': 1605629383394, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605888110, 'nid': 1605629320120, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1605888203] sched.py:answerCard(): 
+[1605889332] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 94, 'factor': 2500, 'flags': 0, 'id': 1600342531016, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1605624246, 'nid': 1600342214429, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 113}
+[1605889336] sched.py:answerCard(): 
+[1605889336] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 94, 'factor': 2500, 'flags': 0, 'id': 1598628135594, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1605552675, 'nid': 1598627980544, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 111}
+[1605889340] sched.py:answerCard(): 
+[1605889340] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 94, 'factor': 2500, 'flags': 0, 'id': 1598630780809, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1605552690, 'nid': 1598630629923, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 111}
+[1605889347] sched.py:answerCard(): 
+[1605889352] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 94, 'factor': 2500, 'flags': 0, 'id': 1605193301894, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1605552581, 'nid': 1605193203030, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 111}
+[1605889362] sched.py:answerCard(): 
+[1605889362] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 93, 'factor': 2300, 'flags': 0, 'id': 1604857879270, 'ivl': 2, 'lapses': 1, 'left': 1001, 'mod': 1605624293, 'nid': 1604857516437, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': 113}
+[1605889377] sched.py:answerCard(): 
+[1605889377] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 94, 'factor': 2100, 'flags': 0, 'id': 1603797760454, 'ivl': 2, 'lapses': 2, 'left': 1001, 'mod': 1605787761, 'nid': 1603797418582, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 9, 'type': 2, 'usn': 118}
+[1605889385] sched.py:answerCard(): 
+[1605889385] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 94, 'factor': 2500, 'flags': 0, 'id': 1605807899149, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605808946, 'nid': 1605807438760, 'odid': 0, 'odue': 0, 'ord': 2, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 118}
+[1605889389] sched.py:answerCard(): 
+[1605889389] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 94, 'factor': 2500, 'flags': 0, 'id': 1605791683781, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605808955, 'nid': 1605790098936, 'odid': 0, 'odue': 0, 'ord': 6, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 118}
+[1605889403] sched.py:answerCard(): 
+[1605889403] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1394, 'factor': 0, 'flags': 0, 'id': 1605807899150, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605807899, 'nid': 1605807438760, 'odid': 0, 'odue': 0, 'ord': 3, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 118}
+[1605889411] sched.py:answerCard(): 
+[1605889411] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 94, 'factor': 2500, 'flags': 0, 'id': 1605806667279, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605808957, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 6, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 118}
+[1605889425] sched.py:answerCard(): 
+[1605889425] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 94, 'factor': 2500, 'flags': 0, 'id': 1605806325937, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605808725, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 2, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 118}
+[1605889438] sched.py:answerCard(): 
+[1605889438] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 94, 'factor': 2500, 'flags': 0, 'id': 1605791683778, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605808727, 'nid': 1605790098936, 'odid': 0, 'odue': 0, 'ord': 3, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 118}
+[1605889448] sched.py:answerCard(): 
+[1605889448] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 94, 'factor': 2500, 'flags': 0, 'id': 1605807899148, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605808748, 'nid': 1605807438760, 'odid': 0, 'odue': 0, 'ord': 1, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 118}
+[1605889450] sched.py:answerCard(): 
+[1605889450] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 94, 'factor': 2500, 'flags': 0, 'id': 1605806515649, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605808944, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 4, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 118}
+[1605889456] sched.py:answerCard(): 
+[1605889456] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1394, 'factor': 0, 'flags': 0, 'id': 1605807899151, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605807899, 'nid': 1605807438760, 'odid': 0, 'odue': 0, 'ord': 9, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 118}
+[1605889466] sched.py:answerCard(): 
+[1605889466] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 94, 'factor': 2500, 'flags': 0, 'id': 1605791683779, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605808776, 'nid': 1605790098936, 'odid': 0, 'odue': 0, 'ord': 4, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 118}
+[1605889479] sched.py:answerCard(): 
+[1605889479] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 94, 'factor': 2500, 'flags': 0, 'id': 1605806744254, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605808962, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 7, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 118}
+[1605889482] sched.py:answerCard(): 
+[1605889482] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 94, 'factor': 2500, 'flags': 0, 'id': 1605791683780, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605808950, 'nid': 1605790098936, 'odid': 0, 'odue': 0, 'ord': 5, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 118}
+[1605889485] sched.py:answerCard(): 
+[1605889485] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 94, 'factor': 2500, 'flags': 0, 'id': 1605791683782, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605808959, 'nid': 1605790098936, 'odid': 0, 'odue': 0, 'ord': 9, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 118}
+[1605889504] sched.py:answerCard(): 
+[1605889504] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 94, 'factor': 2500, 'flags': 0, 'id': 1605806902928, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605808960, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 8, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 118}
+[1605889508] sched.py:answerCard(): 
+[1605889508] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1395, 'factor': 2500, 'flags': 0, 'id': 1605791683774, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605808715, 'nid': 1605790098936, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 2, 'type': 0, 'usn': 118}
+[1605889512] sched.py:answerCard(): 
+[1605889513] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 94, 'factor': 2500, 'flags': 0, 'id': 1605806438904, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605808738, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 3, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 118}
+[1605889515] sched.py:answerCard(): 
+[1605889515] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 94, 'factor': 2500, 'flags': 0, 'id': 1605791683777, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605808724, 'nid': 1605790098936, 'odid': 0, 'odue': 0, 'ord': 2, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 118}
+[1605889518] sched.py:answerCard(): 
+[1605889518] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 94, 'factor': 2500, 'flags': 0, 'id': 1605806055602, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605808698, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 118}
+[1605889520] sched.py:answerCard(): 
+[1605889520] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 94, 'factor': 2500, 'flags': 0, 'id': 1605791683776, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605808720, 'nid': 1605790098936, 'odid': 0, 'odue': 0, 'ord': 1, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 118}
+[1605889521] sched.py:answerCard(): 
+[1605889521] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 94, 'factor': 2500, 'flags': 0, 'id': 1605806218234, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605808722, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 1, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 118}
+[1605889528] sched.py:answerCard(): 
+[1605889528] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1396, 'factor': 2500, 'flags': 0, 'id': 1605807899147, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605808716, 'nid': 1605807438760, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 1, 'type': 0, 'usn': 118}
+[1605889531] sched.py:answerCard(): 
+[1605889531] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 94, 'factor': 2500, 'flags': 0, 'id': 1605806588963, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605808953, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 5, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 118}
+[1605889539] sched.py:answerCard(): 
+[1605889539] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605890011, 'factor': 0, 'flags': 0, 'id': 1605807899150, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605889411, 'nid': 1605807438760, 'odid': 0, 'odue': 0, 'ord': 3, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605889541] sched.py:answerCard(): 
+[1605889541] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605890066, 'factor': 0, 'flags': 0, 'id': 1605807899151, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605889466, 'nid': 1605807438760, 'odid': 0, 'odue': 0, 'ord': 9, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1605889545] sched.py:answerCard(): 
+[1605889545] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605890112, 'factor': 2500, 'flags': 0, 'id': 1605791683774, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605889512, 'nid': 1605790098936, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 1, 'usn': -1}
+[1605889550] sched.py:answerCard(): 
+[1605889550] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1605890131, 'factor': 2500, 'flags': 0, 'id': 1605807899147, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1605889531, 'nid': 1605807438760, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1605889555] sched.py:answerCard(): 
+[1605960675] collection.py:__init__(): /home/user/.local/share/Anki2/Mathematics/collection.anki2, 2.1.26
+[1605960675] sched.py:_updateCutoff(): 94, 1605967200
+[1605968078] sched.py:_updateCutoff(): 95, 1606053600
+[1605968078] sched.py:unburyCards(): []
+[1606052995] collection.py:__init__(): /home/user/.local/share/Anki2/Mathematics/collection.anki2, 2.1.26
+[1606052995] sched.py:_updateCutoff(): 95, 1606053600
+[1606054191] sched.py:_updateCutoff(): 96, 1606140000
+[1606054191] sched.py:unburyCards(): []
+[1606063840] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 95, 'factor': 2500, 'flags': 0, 'id': 1605628946490, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605888152, 'nid': 1605628826729, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 0}
+[1606063857] sched.py:answerCard(): 
+[1606063857] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 95, 'factor': 2500, 'flags': 0, 'id': 1605630320130, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605888200, 'nid': 1605630291863, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 0}
+[1606063863] sched.py:answerCard(): 
+[1606063863] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 95, 'factor': 2500, 'flags': 0, 'id': 1605629678663, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605888187, 'nid': 1605629486109, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 0}
+[1606063874] sched.py:answerCard(): 
+[1606063875] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 95, 'factor': 2500, 'flags': 0, 'id': 1605629024696, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605888156, 'nid': 1605628946497, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 0}
+[1606063883] sched.py:answerCard(): 
+[1606063883] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 95, 'factor': 2500, 'flags': 0, 'id': 1605628572953, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605888166, 'nid': 1605628506347, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 0}
+[1606063894] sched.py:answerCard(): 
+[1606063894] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 95, 'factor': 2500, 'flags': 0, 'id': 1605628441583, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605888141, 'nid': 1605628145282, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 0}
+[1606063926] sched.py:answerCard(): 
+[1606063926] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 95, 'factor': 2500, 'flags': 0, 'id': 1605629486030, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605888181, 'nid': 1605629383410, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 0}
+[1606063947] sched.py:answerCard(): 
+[1606063947] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 95, 'factor': 2500, 'flags': 0, 'id': 1605628506336, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605888144, 'nid': 1605628444478, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 0}
+[1606063953] sched.py:answerCard(): 
+[1606063953] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 95, 'factor': 2500, 'flags': 0, 'id': 1605628048322, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605888136, 'nid': 1605627874113, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 0}
+[1606063963] sched.py:answerCard(): 
+[1606063963] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 95, 'factor': 2500, 'flags': 0, 'id': 1605628826643, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605888149, 'nid': 1605628572962, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 0}
+[1606063989] sched.py:answerCard(): 
+[1606063989] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 95, 'factor': 2500, 'flags': 0, 'id': 1605629383394, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605888203, 'nid': 1605629320120, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 0}
+[1606063995] sched.py:answerCard(): 
+[1606063995] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 95, 'factor': 2500, 'flags': 0, 'id': 1605629124946, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605888170, 'nid': 1605629024701, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 0}
+[1606064002] sched.py:answerCard(): 
+[1606064002] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 95, 'factor': 2500, 'flags': 0, 'id': 1605629901978, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605888198, 'nid': 1605629678670, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 0}
+[1606064007] sched.py:answerCard(): 
+[1606064007] schedv2.py:getCard(): {'data': '', 'did': 1605782203458, 'due': 96, 'factor': 2500, 'flags': 0, 'id': 1605784421377, 'ivl': 2, 'lapses': 0, 'left': 1001, 'mod': 1605888023, 'nid': 1605783843589, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 0}
+[1606064033] sched.py:answerCard(): 
+[1606064033] schedv2.py:getCard(): {'data': '', 'did': 1605782203458, 'due': 96, 'factor': 2500, 'flags': 0, 'id': 1605783646589, 'ivl': 2, 'lapses': 0, 'left': 1001, 'mod': 1605887954, 'nid': 1605783595802, 'odid': 0, 'odue': 0, 'ord': 9, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 0}
+[1606064058] sched.py:answerCard(): 
+[1606064058] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 95, 'factor': 2300, 'flags': 0, 'id': 1604310875664, 'ivl': 4, 'lapses': 1, 'left': 1001, 'mod': 1605624627, 'nid': 1604310724523, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': 113}
+[1606064066] sched.py:answerCard(): 
+[1606064066] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 96, 'factor': 2650, 'flags': 0, 'id': 1603203979838, 'ivl': 20, 'lapses': 0, 'left': 1001, 'mod': 1604339327, 'nid': 1603203883199, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 97}
+[1606064071] sched.py:answerCard(): 
+[1606064071] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 95, 'factor': 2300, 'flags': 0, 'id': 1604417768871, 'ivl': 4, 'lapses': 1, 'left': 1001, 'mod': 1605624611, 'nid': 1604417650625, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': 113}
+[1606064081] sched.py:answerCard(): 
+[1606064081] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 95, 'factor': 2100, 'flags': 0, 'id': 1604310377134, 'ivl': 1, 'lapses': 2, 'left': 1001, 'mod': 1605888131, 'nid': 1604310204292, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': 0}
+[1606064089] sched.py:answerCard(): 
+[1606064089] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 95, 'factor': 2300, 'flags': 0, 'id': 1604310142557, 'ivl': 4, 'lapses': 1, 'left': 1001, 'mod': 1605624623, 'nid': 1604310017560, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': 113}
+[1606064094] sched.py:answerCard(): 
+[1606064094] schedv2.py:getCard(): {'data': '', 'did': 1605782203458, 'due': 96, 'factor': 2500, 'flags': 0, 'id': 1605784421378, 'ivl': 2, 'lapses': 0, 'left': 1001, 'mod': 1605887929, 'nid': 1605783843589, 'odid': 0, 'odue': 0, 'ord': 1, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 0}
+[1606064096] sched.py:answerCard(): 
+[1606064096] schedv2.py:getCard(): {'data': '', 'did': 1605782203458, 'due': 96, 'factor': 2500, 'flags': 0, 'id': 1605784421379, 'ivl': 2, 'lapses': 0, 'left': 1001, 'mod': 1605887967, 'nid': 1605783843589, 'odid': 0, 'odue': 0, 'ord': 2, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 0}
+[1606064098] sched.py:answerCard(): 
+[1606064098] schedv2.py:getCard(): {'data': '', 'did': 1605782203458, 'due': 95, 'factor': 2300, 'flags': 0, 'id': 1605784421380, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1605888122, 'nid': 1605783843589, 'odid': 0, 'odue': 0, 'ord': 9, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 0}
+[1606064101] sched.py:answerCard(): 
+[1606064114] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 95, 'factor': 2500, 'flags': 0, 'id': 1598630851376, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1605624241, 'nid': 1598630809619, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 113}
+[1606064124] sched.py:answerCard(): 
+[1606064124] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 1395, 'factor': 0, 'flags': 0, 'id': 1605890388525, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605890432, 'nid': 1605890224232, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 0}
+[1606064139] sched.py:answerCard(): 
+[1606064139] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 96, 'factor': 2500, 'flags': 0, 'id': 1598630587327, 'ivl': 6, 'lapses': 0, 'left': 1001, 'mod': 1605552695, 'nid': 1598630447227, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 111}
+[1606064142] sched.py:answerCard(): 
+[1606064142] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 1396, 'factor': 0, 'flags': 0, 'id': 1605890605370, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605890605, 'nid': 1605890466154, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 0}
+[1606064208] sched.py:answerCard(): 
+[1606064208] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 96, 'factor': 2500, 'flags': 0, 'id': 1598627453953, 'ivl': 6, 'lapses': 0, 'left': 1001, 'mod': 1605552825, 'nid': 1598627287573, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 111}
+[1606064218] sched.py:answerCard(): 
+[1606064219] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 1397, 'factor': 0, 'flags': 0, 'id': 1605890869419, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605890869, 'nid': 1605890699233, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 0}
+[1606064248] sched.py:answerCard(): 
+[1606064248] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 95, 'factor': 2500, 'flags': 0, 'id': 1598629655512, 'ivl': 5, 'lapses': 0, 'left': 1001, 'mod': 1605552741, 'nid': 1598629436271, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 111}
+[1606064253] sched.py:answerCard(): 
+[1606064253] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 1398, 'factor': 0, 'flags': 0, 'id': 1605891318881, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605891318, 'nid': 1605890869525, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 0}
+[1606064333] sched.py:answerCard(): 
+[1606064333] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 1606064268, 'factor': 0, 'flags': 0, 'id': 1605890605370, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1606064208, 'nid': 1605890466154, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1606064372] sched.py:answerCard(): 
+[1606064372] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 1606064308, 'factor': 0, 'flags': 0, 'id': 1605890869419, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1606064248, 'nid': 1605890699233, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1606064389] sched.py:answerCard(): 
+[1606064389] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 1399, 'factor': 0, 'flags': 0, 'id': 1605891574717, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605891574, 'nid': 1605891318983, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 0}
+[1606064396] sched.py:answerCard(): 
+[1606064396] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 95, 'factor': 2500, 'flags': 0, 'id': 1598630134118, 'ivl': 5, 'lapses': 0, 'left': 1001, 'mod': 1605552748, 'nid': 1598629939791, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 111}
+[1606064416] sched.py:answerCard(): 
+[1606064416] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 96, 'factor': 2500, 'flags': 0, 'id': 1598629834206, 'ivl': 6, 'lapses': 0, 'left': 1001, 'mod': 1605552671, 'nid': 1598629740238, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 111}
+[1606064422] sched.py:answerCard(): 
+[1606064422] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 1400, 'factor': 0, 'flags': 0, 'id': 1605891792456, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605891792, 'nid': 1605891574724, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 0}
+[1606064434] sched.py:answerCard(): 
+[1606064434] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 95, 'factor': 2500, 'flags': 0, 'id': 1598630417022, 'ivl': 5, 'lapses': 0, 'left': 1001, 'mod': 1605552811, 'nid': 1598630172920, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 111}
+[1606064441] sched.py:answerCard(): 
+[1606064441] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 95, 'factor': 2500, 'flags': 0, 'id': 1598627930807, 'ivl': 5, 'lapses': 0, 'left': 1001, 'mod': 1605552839, 'nid': 1598627774040, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 111}
+[1606064449] sched.py:answerCard(): 
+[1606064449] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 1401, 'factor': 0, 'flags': 0, 'id': 1605891889107, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605891889, 'nid': 1605891792555, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 0}
+[1606064493] sched.py:answerCard(): 
+[1606064493] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 96, 'factor': 2500, 'flags': 0, 'id': 1598629240377, 'ivl': 6, 'lapses': 0, 'left': 1001, 'mod': 1605552720, 'nid': 1598629205139, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 111}
+[1606064498] sched.py:answerCard(): 
+[1606064498] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 95, 'factor': 2500, 'flags': 0, 'id': 1598628319641, 'ivl': 5, 'lapses': 0, 'left': 1001, 'mod': 1605552765, 'nid': 1598628158271, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 111}
+[1606064525] sched.py:answerCard(): 
+[1606064525] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 1402, 'factor': 0, 'flags': 0, 'id': 1605892483427, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605892483, 'nid': 1605892197447, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 0}
+[1606064533] sched.py:answerCard(): 
+[1606064533] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 96, 'factor': 2500, 'flags': 0, 'id': 1602259905353, 'ivl': 24, 'lapses': 0, 'left': 1001, 'mod': 1604047039, 'nid': 1602259661199, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 89}
+[1606064540] sched.py:answerCard(): 
+[1606064540] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 95, 'factor': 2500, 'flags': 0, 'id': 1602267014159, 'ivl': 23, 'lapses': 0, 'left': 1001, 'mod': 1604047013, 'nid': 1602266586558, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 89}
+[1606064558] sched.py:answerCard(): 
+[1606064558] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 1606064553, 'factor': 0, 'flags': 0, 'id': 1605891889107, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1606064493, 'nid': 1605891792555, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1606064569] sched.py:answerCard(): 
+[1606064569] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 96, 'factor': 2300, 'flags': 0, 'id': 1603815959246, 'ivl': 4, 'lapses': 1, 'left': 1001, 'mod': 1605787732, 'nid': 1603814561176, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': 118}
+[1606064580] sched.py:answerCard(): 
+[1606064580] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 95, 'factor': 2300, 'flags': 0, 'id': 1603814295398, 'ivl': 4, 'lapses': 1, 'left': 1001, 'mod': 1605624315, 'nid': 1603813779571, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': 113}
+[1606064593] sched.py:answerCard(): 
+[1606064593] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 1403, 'factor': 0, 'flags': 0, 'id': 1605892664837, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605892664, 'nid': 1605892483520, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 0}
+[1606064619] sched.py:answerCard(): 
+[1606064619] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 95, 'factor': 2300, 'flags': 0, 'id': 1604858554090, 'ivl': 4, 'lapses': 1, 'left': 1001, 'mod': 1605624322, 'nid': 1604858283021, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': 113}
+[1606064639] sched.py:answerCard(): 
+[1606064639] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 95, 'factor': 2500, 'flags': 0, 'id': 1602261329605, 'ivl': 23, 'lapses': 0, 'left': 1001, 'mod': 1604046997, 'nid': 1602261154967, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': 89}
+[1606064657] sched.py:answerCard(): 
+[1606064657] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 1404, 'factor': 0, 'flags': 0, 'id': 1605892972917, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605892972, 'nid': 1605892664845, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 0}
+[1606064665] sched.py:answerCard(): 
+[1606064665] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 96, 'factor': 2650, 'flags': 0, 'id': 1603812843971, 'ivl': 17, 'lapses': 0, 'left': 1001, 'mod': 1604595403, 'nid': 1603812591180, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 99}
+[1606064669] sched.py:answerCard(): 
+[1606064669] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 95, 'factor': 2500, 'flags': 0, 'id': 1602260233364, 'ivl': 23, 'lapses': 0, 'left': 1001, 'mod': 1604047003, 'nid': 1602259948157, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 89}
+[1606064679] sched.py:answerCard(): 
+[1606064679] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 1405, 'factor': 0, 'flags': 0, 'id': 1605893171541, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605893171, 'nid': 1605892973014, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 0}
+[1606064701] sched.py:answerCard(): 
+[1606064701] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 96, 'factor': 2500, 'flags': 0, 'id': 1605786068739, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1605808154, 'nid': 1605785335058, 'odid': 0, 'odue': 0, 'ord': 9, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 118}
+[1606064783] sched.py:answerCard(): 
+[1606064783] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 1606064739, 'factor': 0, 'flags': 0, 'id': 1605890388525, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1606064139, 'nid': 1605890224232, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1606064793] sched.py:answerCard(): 
+[1606064793] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 1406, 'factor': 0, 'flags': 0, 'id': 1605893614531, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605893614, 'nid': 1605893171548, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 0}
+[1606064807] sched.py:answerCard(): 
+[1606064807] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 96, 'factor': 2500, 'flags': 0, 'id': 1605786820271, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1605808372, 'nid': 1605786315604, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 118}
+[1606064816] sched.py:answerCard(): 
+[1606064816] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 95, 'factor': 2500, 'flags': 0, 'id': 1605807899147, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605889555, 'nid': 1605807438760, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 0}
+[1606064819] sched.py:answerCard(): 
+[1606064819] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 1606064818, 'factor': 2300, 'flags': 0, 'id': 1598627453953, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1606064218, 'nid': 1598627287573, 'odid': 0, 'odue': 97, 'ord': 0, 'queue': 1, 'reps': 4, 'type': 2, 'usn': -1}
+[1606064827] sched.py:buryCards(): [1598627453953]
+[1606064827] sched.py:emptyDyn(): []
+[1606064827] sched.py:emptyDyn(): []
+[1606064827] schedv2.py:forgetCards(): []
+[1606064827] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 96, 'factor': 2500, 'flags': 0, 'id': 1605791683778, 'ivl': 2, 'lapses': 0, 'left': 1001, 'mod': 1605889448, 'nid': 1605790098936, 'odid': 0, 'odue': 0, 'ord': 3, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 0}
+[1606064854] sched.py:answerCard(): 
+[1606064854] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 96, 'factor': 2500, 'flags': 0, 'id': 1605787008992, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1605808260, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 9, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 118}
+[1606064904] sched.py:answerCard(): 
+[1606064904] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 1407, 'factor': 0, 'flags': 0, 'id': 1605895941390, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605895941, 'nid': 1605895759894, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 0}
+[1606064914] sched.py:answerCard(): 
+[1606064914] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 95, 'factor': 2500, 'flags': 0, 'id': 1605807899150, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605889541, 'nid': 1605807438760, 'odid': 0, 'odue': 0, 'ord': 3, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 0}
+[1606064920] sched.py:answerCard(): 
+[1606064920] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 95, 'factor': 2500, 'flags': 0, 'id': 1605786068737, 'ivl': 2, 'lapses': 0, 'left': 1001, 'mod': 1605808358, 'nid': 1605785335058, 'odid': 0, 'odue': 0, 'ord': 3, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 118}
+[1606064929] sched.py:answerCard(): 
+[1606064929] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 1408, 'factor': 0, 'flags': 0, 'id': 1605896316117, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605896316, 'nid': 1605895941494, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 0}
+[1606064933] sched.py:answerCard(): 
+[1606064933] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 1606064933, 'factor': 0, 'flags': 0, 'id': 1605891318881, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1606064333, 'nid': 1605890869525, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1606064945] sched.py:answerCard(): 
+[1606064945] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 95, 'factor': 2500, 'flags': 0, 'id': 1605785334927, 'ivl': 2, 'lapses': 0, 'left': 1001, 'mod': 1605808596, 'nid': 1605784825306, 'odid': 0, 'odue': 0, 'ord': 3, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 118}
+[1606064956] sched.py:answerCard(): 
+[1606064956] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 224, 'factor': 0, 'flags': 0, 'id': 1601487071431, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1601487071, 'nid': 1601486957016, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 57}
+[1606064985] sched.py:answerCard(): 
+[1606064985] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 1606064972, 'factor': 0, 'flags': 0, 'id': 1605890605370, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1606064372, 'nid': 1605890466154, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1606064996] sched.py:answerCard(): 
+[1606064996] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 1606064989, 'factor': 0, 'flags': 0, 'id': 1605890869419, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1606064389, 'nid': 1605890699233, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1606065005] sched.py:answerCard(): 
+[1606065005] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 1606064996, 'factor': 0, 'flags': 0, 'id': 1605891574717, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1606064396, 'nid': 1605891318983, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1606065018] sched.py:answerCard(): 
+[1606065018] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 96, 'factor': 2500, 'flags': 0, 'id': 1605785334925, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1605808203, 'nid': 1605784825306, 'odid': 0, 'odue': 0, 'ord': 1, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 118}
+[1606065032] sched.py:answerCard(): 
+[1606065032] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 96, 'factor': 2500, 'flags': 0, 'id': 1605807899149, 'ivl': 2, 'lapses': 0, 'left': 1001, 'mod': 1605889389, 'nid': 1605807438760, 'odid': 0, 'odue': 0, 'ord': 2, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 0}
+[1606065034] sched.py:answerCard(): 
+[1606065034] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 1606065034, 'factor': 0, 'flags': 0, 'id': 1605891792456, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1606064434, 'nid': 1605891574724, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1606065043] sched.py:answerCard(): 
+[1606065043] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 96, 'factor': 2500, 'flags': 0, 'id': 1605786068735, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1605808443, 'nid': 1605785335058, 'odid': 0, 'odue': 0, 'ord': 1, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 118}
+[1606065052] sched.py:answerCard(): 
+[1606065052] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 95, 'factor': 2500, 'flags': 0, 'id': 1605791683774, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605889550, 'nid': 1605790098936, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 0}
+[1606065062] sched.py:answerCard(): 
+[1606065062] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 225, 'factor': 0, 'flags': 0, 'id': 1601487288208, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1601487288, 'nid': 1601487217686, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 57}
+[1606065078] sched.py:answerCard(): 
+[1606065078] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 96, 'factor': 2500, 'flags': 0, 'id': 1605806438904, 'ivl': 2, 'lapses': 0, 'left': 1001, 'mod': 1605889515, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 3, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 0}
+[1606065089] sched.py:answerCard(): 
+[1606065089] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 95, 'factor': 2500, 'flags': 0, 'id': 1605786068738, 'ivl': 2, 'lapses': 0, 'left': 1001, 'mod': 1605808561, 'nid': 1605785335058, 'odid': 0, 'odue': 0, 'ord': 4, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 118}
+[1606065098] sched.py:answerCard(): 
+[1606065098] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 226, 'factor': 0, 'flags': 0, 'id': 1601487687266, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1601487687, 'nid': 1601487455452, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 57}
+[1606065128] sched.py:answerCard(): 
+[1606065128] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 227, 'factor': 0, 'flags': 0, 'id': 1601487915527, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1601487915, 'nid': 1601487725558, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 57}
+[1606065136] sched.py:answerCard(): 
+[1606065136] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 1606065133, 'factor': 0, 'flags': 0, 'id': 1605892483427, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1606064533, 'nid': 1605892197447, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1606065141] sched.py:answerCard(): 
+[1606065141] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 228, 'factor': 0, 'flags': 0, 'id': 1601488249028, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1601488249, 'nid': 1601488015442, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 57}
+[1606065165] sched.py:answerCard(): 
+[1606065165] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 95, 'factor': 2500, 'flags': 0, 'id': 1605807899151, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1605889545, 'nid': 1605807438760, 'odid': 0, 'odue': 0, 'ord': 9, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 0}
+[1606065168] sched.py:answerCard(): 
+[1606065168] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 96, 'factor': 2500, 'flags': 0, 'id': 1605791683780, 'ivl': 2, 'lapses': 0, 'left': 1001, 'mod': 1605889485, 'nid': 1605790098936, 'odid': 0, 'odue': 0, 'ord': 5, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 0}
+[1606065218] sched.py:answerCard(): 
+[1606065218] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 1606065169, 'factor': 0, 'flags': 0, 'id': 1605891889107, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1606064569, 'nid': 1605891792555, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1606065222] sched.py:answerCard(): 
+[1606065222] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 1606065219, 'factor': 0, 'flags': 0, 'id': 1605892664837, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1606064619, 'nid': 1605892483520, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1606065227] sched.py:answerCard(): 
+[1606065227] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 95, 'factor': 2500, 'flags': 0, 'id': 1605786068734, 'ivl': 2, 'lapses': 0, 'left': 1001, 'mod': 1605808449, 'nid': 1605785335058, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 118}
+[1606065237] sched.py:answerCard(): 
+[1606065237] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 229, 'factor': 0, 'flags': 0, 'id': 1601488415909, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1601488415, 'nid': 1601488320140, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 57}
+[1606065241] sched.py:answerCard(): 
+[1606065241] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 95, 'factor': 2500, 'flags': 0, 'id': 1605785334924, 'ivl': 2, 'lapses': 0, 'left': 1001, 'mod': 1605808446, 'nid': 1605784825306, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 118}
+[1606065245] sched.py:answerCard(): 
+[1606065245] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 96, 'factor': 2500, 'flags': 0, 'id': 1605807899148, 'ivl': 2, 'lapses': 0, 'left': 1001, 'mod': 1605889450, 'nid': 1605807438760, 'odid': 0, 'odue': 0, 'ord': 1, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 0}
+[1606065254] sched.py:answerCard(): 
+[1606065254] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 1606065265, 'factor': 0, 'flags': 0, 'id': 1605892972917, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1606064665, 'nid': 1605892664845, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1606065257] sched.py:answerCard(): 
+[1606065257] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 1606065301, 'factor': 0, 'flags': 0, 'id': 1605893171541, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1606064701, 'nid': 1605892973014, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1606065266] sched.py:answerCard(): 
+[1606065266] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 1606065407, 'factor': 0, 'flags': 0, 'id': 1605893614531, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1606064807, 'nid': 1605893171548, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1606065293] sched.py:answerCard(): 
+[1606065293] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 1606065533, 'factor': 0, 'flags': 0, 'id': 1605896316117, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1606064933, 'nid': 1605895941494, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1606065295] sched.py:answerCard(): 
+[1606065295] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 1606065585, 'factor': 0, 'flags': 0, 'id': 1601487071431, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1606064985, 'nid': 1601486957016, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1606065303] sched.py:answerCard(): 
+[1606065303] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 1606065678, 'factor': 0, 'flags': 0, 'id': 1601487288208, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1606065078, 'nid': 1601487217686, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1606065310] sched.py:answerCard(): 
+[1606065310] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 1606065728, 'factor': 0, 'flags': 0, 'id': 1601487687266, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1606065128, 'nid': 1601487455452, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1606065313] sched.py:answerCard(): 
+[1606065313] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 1606065736, 'factor': 0, 'flags': 0, 'id': 1601487915527, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1606065136, 'nid': 1601487725558, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1606065316] sched.py:answerCard(): 
+[1606065316] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 1606065765, 'factor': 0, 'flags': 0, 'id': 1601488249028, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1606065165, 'nid': 1601488015442, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1606065319] sched.py:answerCard(): 
+[1606065319] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 1606065841, 'factor': 0, 'flags': 0, 'id': 1601488415909, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1606065241, 'nid': 1601488320140, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1606065322] sched.py:answerCard(): 
+[1606129558] collection.py:__init__(): /home/user/.local/share/Anki2/Mathematics/collection.anki2, 2.1.26
+[1606129558] sched.py:_updateCutoff(): 96, 1606140000
+[1606141507] sched.py:_updateCutoff(): 97, 1606226400
+[1606141507] sched.py:unburyCards(): [1598627453953]
+[1606224702] collection.py:__init__(): /home/user/.local/share/Anki2/Mathematics/collection.anki2, 2.1.26
+[1606224702] sched.py:_updateCutoff(): 97, 1606226400
+[1606226496] sched.py:_updateCutoff(): 98, 1606312800
+[1606226496] sched.py:unburyCards(): []
+[1606253746] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 98, 'factor': 2500, 'flags': 0, 'id': 1605628826643, 'ivl': 2, 'lapses': 0, 'left': 1001, 'mod': 1606063989, 'nid': 1605628572962, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 122}
+[1606253763] sched.py:answerCard(): 
+[1606253764] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1605627424260, 'ivl': 3, 'lapses': 0, 'left': 2002, 'mod': 1605887830, 'nid': 1605627320407, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 1, 'type': 2, 'usn': 0}
+[1606253767] sched.py:answerCard(): 
+[1606253767] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 98, 'factor': 2500, 'flags': 0, 'id': 1605630320130, 'ivl': 2, 'lapses': 0, 'left': 1001, 'mod': 1606063863, 'nid': 1605630291863, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 122}
+[1606253771] sched.py:answerCard(): 
+[1606253771] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 98, 'factor': 2500, 'flags': 0, 'id': 1605628048322, 'ivl': 2, 'lapses': 0, 'left': 1001, 'mod': 1606063963, 'nid': 1605627874113, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 122}
+[1606253790] sched.py:answerCard(): 
+[1606253790] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 98, 'factor': 2500, 'flags': 0, 'id': 1605629901978, 'ivl': 2, 'lapses': 0, 'left': 1001, 'mod': 1606064007, 'nid': 1605629678670, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 122}
+[1606253796] sched.py:answerCard(): 
+[1606253796] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 98, 'factor': 2500, 'flags': 0, 'id': 1605629124946, 'ivl': 2, 'lapses': 0, 'left': 1001, 'mod': 1606064002, 'nid': 1605629024701, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 122}
+[1606253803] sched.py:answerCard(): 
+[1606253803] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 98, 'factor': 2500, 'flags': 0, 'id': 1605627874110, 'ivl': 4, 'lapses': 0, 'left': 2002, 'mod': 1605887859, 'nid': 1605627789360, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 1, 'type': 2, 'usn': 0}
+[1606253807] sched.py:answerCard(): 
+[1606253807] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 98, 'factor': 2500, 'flags': 0, 'id': 1605628572953, 'ivl': 2, 'lapses': 0, 'left': 1001, 'mod': 1606063894, 'nid': 1605628506347, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 122}
+[1606253824] sched.py:answerCard(): 
+[1606253824] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 98, 'factor': 2500, 'flags': 0, 'id': 1605629486030, 'ivl': 2, 'lapses': 0, 'left': 1001, 'mod': 1606063947, 'nid': 1605629383410, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 122}
+[1606253837] sched.py:answerCard(): 
+[1606253837] schedv2.py:getCard(): {'data': '', 'did': 1605625210194, 'due': 98, 'factor': 2500, 'flags': 0, 'id': 1605627789216, 'ivl': 4, 'lapses': 0, 'left': 2002, 'mod': 1605887848, 'nid': 1605627456199, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 1, 'type': 2, 'usn': 0}
+[1606253840] sched.py:answerCard(): 
+[1606253840] schedv2.py:getCard(): {'data': '', 'did': 1605782203458, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1605783646587, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1605887940, 'nid': 1605783595802, 'odid': 0, 'odue': 0, 'ord': 1, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 0}
+[1606253850] sched.py:answerCard(): 
+[1606253850] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 98, 'factor': 2650, 'flags': 0, 'id': 1603203352669, 'ivl': 22, 'lapses': 0, 'left': 1001, 'mod': 1604339382, 'nid': 1603203317953, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 97}
+[1606253857] sched.py:answerCard(): 
+[1606253857] schedv2.py:getCard(): {'data': '', 'did': 1602151806594, 'due': 97, 'factor': 2300, 'flags': 0, 'id': 1604310543357, 'ivl': 3, 'lapses': 1, 'left': 1001, 'mod': 1605887854, 'nid': 1604310377234, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': 0}
+[1606253866] sched.py:answerCard(): 
+[1606253866] schedv2.py:getCard(): {'data': '', 'did': 1605782203458, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1605783646588, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1605887806, 'nid': 1605783595802, 'odid': 0, 'odue': 0, 'ord': 2, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 0}
+[1606253871] sched.py:answerCard(): 
+[1606253871] schedv2.py:getCard(): {'data': '', 'did': 1605782203458, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1605783646586, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1605887988, 'nid': 1605783595802, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 0}
+[1606253891] sched.py:answerCard(): 
+[1606253891] schedv2.py:getCard(): {'data': '', 'did': 1605782203458, 'due': 1606254491, 'factor': 2300, 'flags': 0, 'id': 1605783646586, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1606253891, 'nid': 1605783595802, 'odid': 0, 'odue': 99, 'ord': 0, 'queue': 1, 'reps': 4, 'type': 2, 'usn': -1}
+[1606253895] sched.py:answerCard(): 
+[1606253903] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1598627732780, 'ivl': 7, 'lapses': 0, 'left': 2002, 'mod': 1605552834, 'nid': 1598627590361, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 111}
+[1606253912] sched.py:answerCard(): 
+[1606253912] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 98, 'factor': 2500, 'flags': 0, 'id': 1598628878001, 'ivl': 8, 'lapses': 0, 'left': 2002, 'mod': 1605552710, 'nid': 1598628835861, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 111}
+[1606253919] sched.py:answerCard(): 
+[1606253919] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 230, 'factor': 0, 'flags': 0, 'id': 1601488725112, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1601488725, 'nid': 1601488512662, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 57}
+[1606253936] sched.py:answerCard(): 
+[1606253936] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1598627201988, 'ivl': 7, 'lapses': 0, 'left': 1001, 'mod': 1605552754, 'nid': 1598626872115, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 111}
+[1606253946] sched.py:answerCard(): 
+[1606253946] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 98, 'factor': 2500, 'flags': 0, 'id': 1598629436256, 'ivl': 8, 'lapses': 0, 'left': 1001, 'mod': 1605552792, 'nid': 1598629273595, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 111}
+[1606253955] sched.py:answerCard(): 
+[1606253955] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 231, 'factor': 0, 'flags': 0, 'id': 1601488975522, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1601488975, 'nid': 1601488877938, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 57}
+[1606253964] sched.py:answerCard(): 
+[1606253964] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 97, 'factor': 2300, 'flags': 0, 'id': 1598627453953, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1606064827, 'nid': 1598627287573, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 122}
+[1606253969] sched.py:answerCard(): 
+[1606253969] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 98, 'factor': 2500, 'flags': 0, 'id': 1598629154424, 'ivl': 8, 'lapses': 0, 'left': 1001, 'mod': 1605552734, 'nid': 1598629007770, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 111}
+[1606253983] sched.py:answerCard(): 
+[1606253983] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 232, 'factor': 0, 'flags': 0, 'id': 1601489223988, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1601489223, 'nid': 1601489168585, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 57}
+[1606253990] sched.py:answerCard(): 
+[1606253990] schedv2.py:getCard(): {'data': '', 'did': 1598626428241, 'due': 98, 'factor': 2500, 'flags': 0, 'id': 1598628779971, 'ivl': 8, 'lapses': 0, 'left': 1001, 'mod': 1605552760, 'nid': 1598628630730, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 111}
+[1606253997] sched.py:answerCard(): 
+[1606253997] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 97, 'factor': 2100, 'flags': 0, 'id': 1603902860917, 'ivl': 7, 'lapses': 2, 'left': 1001, 'mod': 1605552434, 'nid': 1603902434930, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 10, 'type': 2, 'usn': 111}
+[1606254017] sched.py:answerCard(): 
+[1606254017] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 233, 'factor': 0, 'flags': 0, 'id': 1601489436009, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1601489436, 'nid': 1601489223995, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 57}
+[1606254027] sched.py:answerCard(): 
+[1606254027] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1604858245156, 'ivl': 7, 'lapses': 0, 'left': 1001, 'mod': 1605552559, 'nid': 1604857879361, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': 111}
+[1606254037] sched.py:answerCard(): 
+[1606254037] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1602261064352, 'ivl': 25, 'lapses': 0, 'left': 1001, 'mod': 1604047025, 'nid': 1602260635376, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': 89}
+[1606254047] sched.py:answerCard(): 
+[1606254047] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 234, 'factor': 0, 'flags': 0, 'id': 1601489619269, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1601489619, 'nid': 1601489472711, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 57}
+[1606254056] sched.py:answerCard(): 
+[1606254056] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 97, 'factor': 2650, 'flags': 0, 'id': 1603797372101, 'ivl': 13, 'lapses': 0, 'left': 1001, 'mod': 1605025958, 'nid': 1603797309325, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': 104}
+[1606254069] sched.py:answerCard(): 
+[1606254069] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 98, 'factor': 2500, 'flags': 0, 'id': 1602260502003, 'ivl': 26, 'lapses': 0, 'left': 1001, 'mod': 1604046981, 'nid': 1602260284417, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 89}
+[1606254081] sched.py:answerCard(): 
+[1606254081] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 235, 'factor': 0, 'flags': 0, 'id': 1601489756928, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1601489756, 'nid': 1601489670812, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 57}
+[1606254091] sched.py:answerCard(): 
+[1606254091] schedv2.py:getCard(): {'data': '', 'did': 1602259651664, 'due': 97, 'factor': 2300, 'flags': 0, 'id': 1604857879270, 'ivl': 3, 'lapses': 1, 'left': 1001, 'mod': 1605889377, 'nid': 1604857516437, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': 0}
+[1606254106] sched.py:answerCard(): 
+[1606254106] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1605806055602, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1605889520, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 0}
+[1606254118] sched.py:answerCard(): 
+[1606254118] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 236, 'factor': 0, 'flags': 0, 'id': 1601489911473, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1601489911, 'nid': 1601489784469, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 57}
+[1606254138] sched.py:answerCard(): 
+[1606254138] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1605785334928, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1605808573, 'nid': 1605784825306, 'odid': 0, 'odue': 0, 'ord': 4, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 118}
+[1606254148] sched.py:answerCard(): 
+[1606254148] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 98, 'factor': 2500, 'flags': 0, 'id': 1605807899147, 'ivl': 2, 'lapses': 0, 'left': 1001, 'mod': 1606064819, 'nid': 1605807438760, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 122}
+[1606254155] sched.py:answerCard(): 
+[1606254155] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 237, 'factor': 0, 'flags': 0, 'id': 1601490049150, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1601490049, 'nid': 1601489968884, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 57}
+[1606254160] sched.py:answerCard(): 
+[1606254160] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1605791683776, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1605889521, 'nid': 1605790098936, 'odid': 0, 'odue': 0, 'ord': 1, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 0}
+[1606254173] sched.py:answerCard(): 
+[1606254173] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1605786820272, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1605808438, 'nid': 1605786315604, 'odid': 0, 'odue': 0, 'ord': 1, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 118}
+[1606254183] sched.py:answerCard(): 
+[1606254183] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 238, 'factor': 0, 'flags': 0, 'id': 1601490226671, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1601490226, 'nid': 1601490071103, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 57}
+[1606254191] sched.py:answerCard(): 
+[1606254191] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1605786068736, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1605808322, 'nid': 1605785335058, 'odid': 0, 'odue': 0, 'ord': 2, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 118}
+[1606254225] sched.py:answerCard(): 
+[1606254225] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1605891889107, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1606065222, 'nid': 1605891792555, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 122}
+[1606254235] sched.py:answerCard(): 
+[1606254235] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 239, 'factor': 0, 'flags': 0, 'id': 1601490347309, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1601490347, 'nid': 1601490264402, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 57}
+[1606254246] sched.py:answerCard(): 
+[1606254246] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1605893171541, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1606065266, 'nid': 1605892973014, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 122}
+[1606254256] sched.py:answerCard(): 
+[1606254256] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1605890605370, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1606064996, 'nid': 1605890466154, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 122}
+[1606254279] sched.py:answerCard(): 
+[1606254279] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 240, 'factor': 0, 'flags': 0, 'id': 1601490726652, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1601490726, 'nid': 1601490481529, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 57}
+[1606254285] sched.py:answerCard(): 
+[1606254285] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1605896316117, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1606065295, 'nid': 1605895941494, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 122}
+[1606254288] sched.py:answerCard(): 
+[1606254288] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1605892483427, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1606065141, 'nid': 1605892197447, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 122}
+[1606254311] sched.py:answerCard(): 
+[1606254311] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 241, 'factor': 0, 'flags': 0, 'id': 1601490926541, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1601490926, 'nid': 1601490763495, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 57}
+[1606254317] sched.py:answerCard(): 
+[1606254317] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1605893614531, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1606065293, 'nid': 1605893171548, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 122}
+[1606254325] sched.py:answerCard(): 
+[1606254325] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1605891574717, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1606065018, 'nid': 1605891318983, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 122}
+[1606254333] sched.py:answerCard(): 
+[1606254333] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 242, 'factor': 0, 'flags': 0, 'id': 1601491236956, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1601491236, 'nid': 1601491059012, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 57}
+[1606254359] sched.py:answerCard(): 
+[1606254359] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1605791683779, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1605889479, 'nid': 1605790098936, 'odid': 0, 'odue': 0, 'ord': 4, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 0}
+[1606254376] sched.py:answerCard(): 
+[1606254376] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 243, 'factor': 0, 'flags': 0, 'id': 1601491422744, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1601491422, 'nid': 1601491284922, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 57}
+[1606254381] sched.py:answerCard(): 
+[1606254381] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1605785334926, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1605808416, 'nid': 1605784825306, 'odid': 0, 'odue': 0, 'ord': 2, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 118}
+[1606254397] sched.py:answerCard(): 
+[1606254397] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 98, 'factor': 2500, 'flags': 0, 'id': 1605806902928, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1605889508, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 8, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 0}
+[1606254406] sched.py:answerCard(): 
+[1606254406] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1605786820274, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1605808056, 'nid': 1605786315604, 'odid': 0, 'odue': 0, 'ord': 9, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 118}
+[1606254425] sched.py:answerCard(): 
+[1606254425] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 244, 'factor': 0, 'flags': 0, 'id': 1601491716254, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1601491716, 'nid': 1601491441455, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 57}
+[1606254448] sched.py:answerCard(): 
+[1606254448] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1605806667279, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1605889425, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 6, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 0}
+[1606254461] sched.py:answerCard(): 
+[1606254461] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1605785334929, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1605808472, 'nid': 1605784825306, 'odid': 0, 'odue': 0, 'ord': 9, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 118}
+[1606254483] sched.py:answerCard(): 
+[1606254483] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1605791683781, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1605889403, 'nid': 1605790098936, 'odid': 0, 'odue': 0, 'ord': 6, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 0}
+[1606254493] sched.py:answerCard(): 
+[1606254493] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1605786820273, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1605808518, 'nid': 1605786315604, 'odid': 0, 'odue': 0, 'ord': 2, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 118}
+[1606254498] sched.py:answerCard(): 
+[1606254498] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 245, 'factor': 0, 'flags': 0, 'id': 1601491971094, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1601491971, 'nid': 1601491745061, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 57}
+[1606254507] sched.py:answerCard(): 
+[1606254507] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1605891792456, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1606065043, 'nid': 1605891574724, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 122}
+[1606254516] sched.py:answerCard(): 
+[1606254516] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1605890869419, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1606065005, 'nid': 1605890699233, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 122}
+[1606254529] sched.py:answerCard(): 
+[1606254529] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1605891318881, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1606064945, 'nid': 1605890869525, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 122}
+[1606254542] sched.py:answerCard(): 
+[1606254542] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 1606254536, 'factor': 0, 'flags': 0, 'id': 1601488725112, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1606253936, 'nid': 1601488512662, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1606254549] sched.py:answerCard(): 
+[1606254549] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 246, 'factor': 0, 'flags': 0, 'id': 1601492182006, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1601492182, 'nid': 1601491994646, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 57}
+[1606254554] sched.py:answerCard(): 
+[1606254554] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1605892972917, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1606065257, 'nid': 1605892664845, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 122}
+[1606254563] sched.py:answerCard(): 
+[1606254563] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1605892664837, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1606065227, 'nid': 1605892483520, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 122}
+[1606254586] sched.py:answerCard(): 
+[1606254586] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 1606254564, 'factor': 0, 'flags': 0, 'id': 1601488975522, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1606253964, 'nid': 1601488877938, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1606254594] sched.py:answerCard(): 
+[1606254594] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 1606254590, 'factor': 0, 'flags': 0, 'id': 1601489223988, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1606253990, 'nid': 1601489168585, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1606254597] sched.py:answerCard(): 
+[1606254597] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 247, 'factor': 0, 'flags': 0, 'id': 1601492425306, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1601492425, 'nid': 1601492198932, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 57}
+[1606254613] sched.py:answerCard(): 
+[1606254613] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1601487687266, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1606065313, 'nid': 1601487455452, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 122}
+[1606254626] sched.py:answerCard(): 
+[1606254626] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1601488249028, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1606065319, 'nid': 1601488015442, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 122}
+[1606254630] sched.py:answerCard(): 
+[1606254630] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 1606254627, 'factor': 0, 'flags': 0, 'id': 1601489436009, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1606254027, 'nid': 1601489223995, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1606254635] sched.py:answerCard(): 
+[1606254635] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1601487071431, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1606065303, 'nid': 1601486957016, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 122}
+[1606254640] sched.py:answerCard(): 
+[1606254640] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 248, 'factor': 0, 'flags': 0, 'id': 1601492504973, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1601492504, 'nid': 1601492452399, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 57}
+[1606254644] sched.py:answerCard(): 
+[1606254644] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1601487288208, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1606065310, 'nid': 1601487217686, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 122}
+[1606254649] sched.py:answerCard(): 
+[1606254649] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1601488415909, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1606065322, 'nid': 1601488320140, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 122}
+[1606254652] sched.py:answerCard(): 
+[1606254652] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1601487915527, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1606065316, 'nid': 1601487725558, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 122}
+[1606254663] sched.py:answerCard(): 
+[1606254663] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 1606254656, 'factor': 0, 'flags': 0, 'id': 1601489619269, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1606254056, 'nid': 1601489472711, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1606254669] sched.py:answerCard(): 
+[1606254669] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 249, 'factor': 0, 'flags': 0, 'id': 1601492726095, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1601492726, 'nid': 1601492547177, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 57}
+[1606254683] sched.py:answerCard(): 
+[1606254683] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 98, 'factor': 2500, 'flags': 0, 'id': 1605791683782, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1605889504, 'nid': 1605790098936, 'odid': 0, 'odue': 0, 'ord': 9, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 0}
+[1606254713] sched.py:answerCard(): 
+[1606254713] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 1606254691, 'factor': 0, 'flags': 0, 'id': 1601489756928, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1606254091, 'nid': 1601489670812, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1606254719] sched.py:answerCard(): 
+[1606254719] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 1606254718, 'factor': 2300, 'flags': 0, 'id': 1605806055602, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1606254118, 'nid': 1605786820442, 'odid': 0, 'odue': 99, 'ord': 0, 'queue': 1, 'reps': 4, 'type': 2, 'usn': -1}
+[1606254734] sched.py:answerCard(): 
+[1606254734] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 98, 'factor': 2500, 'flags': 0, 'id': 1605806218234, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1605889528, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 1, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 0}
+[1606254744] sched.py:answerCard(): 
+[1606254744] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 1606254738, 'factor': 0, 'flags': 0, 'id': 1601489911473, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1606254138, 'nid': 1601489784469, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1606254750] sched.py:answerCard(): 
+[1606254750] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1605791683777, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1605889518, 'nid': 1605790098936, 'odid': 0, 'odue': 0, 'ord': 2, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 0}
+[1606254757] sched.py:answerCard(): 
+[1606254757] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 98, 'factor': 2500, 'flags': 0, 'id': 1605806588963, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1605889539, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 5, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 0}
+[1606254768] sched.py:answerCard(): 
+[1606254768] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 1606254760, 'factor': 0, 'flags': 0, 'id': 1601490049150, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1606254160, 'nid': 1601489968884, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1606254772] sched.py:answerCard(): 
+[1606254772] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 98, 'factor': 2500, 'flags': 0, 'id': 1605806515649, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1605889456, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 4, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 0}
+[1606254783] sched.py:answerCard(): 
+[1606254783] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 98, 'factor': 2500, 'flags': 0, 'id': 1605806744254, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1605889482, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 7, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 0}
+[1606254792] sched.py:answerCard(): 
+[1606254792] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 1606254791, 'factor': 0, 'flags': 0, 'id': 1601490226671, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1606254191, 'nid': 1601490071103, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1606254799] sched.py:answerCard(): 
+[1606254799] schedv2.py:getCard(): {'data': '', 'did': 1605784650903, 'due': 97, 'factor': 2500, 'flags': 0, 'id': 1605806325937, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1605889438, 'nid': 1605786820442, 'odid': 0, 'odue': 0, 'ord': 2, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 0}
+[1606254806] sched.py:answerCard(): 
+[1606254806] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 1606254835, 'factor': 2300, 'flags': 0, 'id': 1605891889107, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1606254235, 'nid': 1605891792555, 'odid': 0, 'odue': 99, 'ord': 0, 'queue': 1, 'reps': 4, 'type': 2, 'usn': -1}
+[1606254819] sched.py:answerCard(): 
+[1606254819] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 1606254846, 'factor': 0, 'flags': 0, 'id': 1601490347309, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1606254246, 'nid': 1601490264402, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1606254825] sched.py:answerCard(): 
+[1606254825] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 1606254885, 'factor': 0, 'flags': 0, 'id': 1601490726652, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1606254285, 'nid': 1601490481529, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1606254830] sched.py:answerCard(): 
+[1606254830] schedv2.py:getCard(): {'data': '', 'did': 1605890202963, 'due': 1606254911, 'factor': 2300, 'flags': 0, 'id': 1605892483427, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1606254311, 'nid': 1605892197447, 'odid': 0, 'odue': 99, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 2, 'usn': -1}
+[1606254839] sched.py:answerCard(): 
+[1606254839] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 1606254917, 'factor': 0, 'flags': 0, 'id': 1601490926541, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1606254317, 'nid': 1601490763495, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1606254844] sched.py:answerCard(): 
+[1606254844] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 1606254959, 'factor': 0, 'flags': 0, 'id': 1601491236956, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1606254359, 'nid': 1601491059012, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1606254866] sched.py:answerCard(): 
+[1606254866] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 1606255107, 'factor': 0, 'flags': 0, 'id': 1601491971094, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1606254507, 'nid': 1601491745061, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1606254871] sched.py:answerCard(): 
+[1606254871] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 1606255154, 'factor': 0, 'flags': 0, 'id': 1601492182006, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1606254554, 'nid': 1601491994646, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1606254877] sched.py:answerCard(): 
+[1606254877] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 1606255213, 'factor': 0, 'flags': 0, 'id': 1601492425306, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1606254613, 'nid': 1601492198932, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1606254883] sched.py:answerCard(): 
+[1606254883] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 1606255244, 'factor': 0, 'flags': 0, 'id': 1601492504973, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1606254644, 'nid': 1601492452399, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1606254898] sched.py:answerCard(): 
+[1606254898] schedv2.py:getCard(): {'data': '', 'did': 1601486948122, 'due': 1606255283, 'factor': 0, 'flags': 0, 'id': 1601492726095, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1606254683, 'nid': 1601492547177, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1606254906] sched.py:answerCard(): 
+[1606254916] schedv2.py:getCard(): {'data': '', 'did': 1605783560551, 'due': 1383, 'factor': 0, 'flags': 0, 'id': 1604048838241, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605783560, 'nid': 1604048838241, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 118}
+[1606254922] sched.py:answerCard(): 
+[1606254922] schedv2.py:getCard(): {'data': '', 'did': 1605783560551, 'due': 1384, 'factor': 0, 'flags': 0, 'id': 1604048973042, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605783560, 'nid': 1604048973042, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 118}
+[1606254924] sched.py:answerCard(): 
+[1606254924] schedv2.py:getCard(): {'data': '', 'did': 1605783560551, 'due': 1385, 'factor': 0, 'flags': 0, 'id': 1604049016909, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605783560, 'nid': 1604049016909, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 118}
+[1606254926] sched.py:answerCard(): 
+[1606254926] schedv2.py:getCard(): {'data': '', 'did': 1605783560551, 'due': 1384, 'factor': 0, 'flags': 0, 'id': 1604048973043, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605783560, 'nid': 1604048973042, 'odid': 0, 'odue': 0, 'ord': 1, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 118}
+[1606254930] sched.py:answerCard(): 
+[1606254930] schedv2.py:getCard(): {'data': '', 'did': 1605783560551, 'due': 1385, 'factor': 0, 'flags': 0, 'id': 1604049016910, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605783560, 'nid': 1604049016909, 'odid': 0, 'odue': 0, 'ord': 1, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 118}
+[1606254933] sched.py:answerCard(): 
+[1606254933] schedv2.py:getCard(): {'data': '', 'did': 1605783560551, 'due': 1384, 'factor': 0, 'flags': 0, 'id': 1604048973044, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605783560, 'nid': 1604048973042, 'odid': 0, 'odue': 0, 'ord': 2, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 118}
+[1606254934] sched.py:answerCard(): 
+[1606254934] schedv2.py:getCard(): {'data': '', 'did': 1605783560551, 'due': 1385, 'factor': 0, 'flags': 0, 'id': 1604049016911, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605783560, 'nid': 1604049016909, 'odid': 0, 'odue': 0, 'ord': 2, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 118}
+[1606254935] sched.py:answerCard(): 
+[1606254935] schedv2.py:getCard(): {'data': '', 'did': 1605783560551, 'due': 1384, 'factor': 0, 'flags': 0, 'id': 1604048973045, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605783560, 'nid': 1604048973042, 'odid': 0, 'odue': 0, 'ord': 3, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 118}
+[1606254944] sched.py:answerCard(): 
+[1606254944] schedv2.py:getCard(): {'data': '', 'did': 1605783560551, 'due': 1384, 'factor': 0, 'flags': 0, 'id': 1604048973046, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605783560, 'nid': 1604048973042, 'odid': 0, 'odue': 0, 'ord': 4, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 118}
+[1606254945] sched.py:answerCard(): 
+[1606254945] schedv2.py:getCard(): {'data': '', 'did': 1605783560551, 'due': 1384, 'factor': 0, 'flags': 0, 'id': 1604048973047, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605783560, 'nid': 1604048973042, 'odid': 0, 'odue': 0, 'ord': 5, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 118}
+[1606254947] sched.py:answerCard(): 
+[1606254947] schedv2.py:getCard(): {'data': '', 'did': 1605783560551, 'due': 1384, 'factor': 0, 'flags': 0, 'id': 1604048973048, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605783560, 'nid': 1604048973042, 'odid': 0, 'odue': 0, 'ord': 6, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 118}
+[1606254948] sched.py:answerCard(): 
+[1606254948] schedv2.py:getCard(): {'data': '', 'did': 1605783560551, 'due': 1384, 'factor': 0, 'flags': 0, 'id': 1604048973049, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1605783560, 'nid': 1604048973042, 'odid': 0, 'odue': 0, 'ord': 9, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 118}
