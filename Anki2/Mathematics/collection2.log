@@ -3239,3 +3239,461 @@ Dec 09 22:39:56.247 DEBG sanity check
 Dec 09 22:39:56.248 DEBG gathered local counts; waiting for server reply
 Dec 09 22:39:56.393 DEBG got server reply
 Dec 09 22:39:56.393 DEBG finalize
+Dec 10 15:12:21.762 DEBG fetching meta...
+Dec 10 15:12:21.844 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Dec 10 15:12:21.844 DEBG skip check
+Dec 10 15:12:21.844 DEBG begin media sync
+Dec 10 15:12:21.963 DEBG server usn was 11
+Dec 10 15:12:21.964 DEBG media sync complete
+Dec 10 15:12:22.054 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(160), latest_usn: Usn(160), pending_usn: Usn(-1), new_usn: Some(Usn(160)), server_message: "", host_number: 2 }
+Dec 10 15:12:22.054 DEBG start
+Dec 10 15:12:22.199 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Dec 10 15:12:22.199 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Dec 10 15:12:22.199 DEBG applied server graves
+Dec 10 15:12:22.199 DEBG unchunked changes
+Dec 10 15:12:22.199 DEBG gathering local changes
+Dec 10 15:12:22.200 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Dec 10 15:12:22.266 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Dec 10 15:12:22.266 DEBG begin stream from server
+Dec 10 15:12:22.324 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Dec 10 15:12:22.324 DEBG begin stream to server
+Dec 10 15:12:22.325 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Dec 10 15:12:22.388 DEBG sanity check
+Dec 10 15:12:22.390 DEBG gathered local counts; waiting for server reply
+Dec 10 15:12:22.442 DEBG got server reply
+Dec 10 15:12:22.443 DEBG finalize
+Dec 10 22:57:39.947 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Dec 10 22:57:39.947 DEBG skip check
+Dec 10 22:57:39.947 DEBG begin media sync
+Dec 10 22:57:39.990 DEBG fetching meta...
+Dec 10 22:57:40.205 DEBG server usn was 11
+Dec 10 22:57:40.205 DEBG media sync complete
+Dec 10 22:57:40.282 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(161), latest_usn: Usn(161), pending_usn: Usn(-1), new_usn: Some(Usn(161)), server_message: "", host_number: 2 }
+Dec 10 22:57:40.282 DEBG start
+Dec 10 22:57:40.364 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Dec 10 22:57:40.364 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Dec 10 22:57:40.364 DEBG applied server graves
+Dec 10 22:57:40.364 DEBG unchunked changes
+Dec 10 22:57:40.364 DEBG gathering local changes
+Dec 10 22:57:40.365 DEBG sending, tags: 0, deck config: 0, decks: 12, notetypes: 1
+Dec 10 22:57:40.418 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Dec 10 22:57:40.418 DEBG begin stream from server
+Dec 10 22:57:40.471 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Dec 10 22:57:40.471 DEBG begin stream to server
+Dec 10 22:57:40.475 DEBG sending, revlog: 70, notes: 19, cards: 48, done: true
+Dec 10 22:57:40.543 DEBG sanity check
+Dec 10 22:57:40.544 DEBG gathered local counts; waiting for server reply
+Dec 10 22:57:40.603 DEBG got server reply
+Dec 10 22:57:40.603 DEBG finalize
+Dec 11 21:38:11.984 DEBG fetching meta...
+Dec 11 21:38:12.051 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Dec 11 21:38:12.051 DEBG skip check
+Dec 11 21:38:12.051 DEBG begin media sync
+Dec 11 21:38:12.206 DEBG server usn was 11
+Dec 11 21:38:12.206 DEBG media sync complete
+Dec 11 21:38:13.012 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(162), latest_usn: Usn(162), pending_usn: Usn(-1), new_usn: Some(Usn(162)), server_message: "", host_number: 2 }
+Dec 11 21:38:13.012 DEBG start
+Dec 11 21:38:13.152 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Dec 11 21:38:13.152 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Dec 11 21:38:13.152 DEBG applied server graves
+Dec 11 21:38:13.152 DEBG unchunked changes
+Dec 11 21:38:13.152 DEBG gathering local changes
+Dec 11 21:38:13.152 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Dec 11 21:38:13.203 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Dec 11 21:38:13.203 DEBG begin stream from server
+Dec 11 21:38:13.308 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Dec 11 21:38:13.308 DEBG begin stream to server
+Dec 11 21:38:13.332 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Dec 11 21:38:13.378 DEBG sanity check
+Dec 11 21:38:13.379 DEBG gathered local counts; waiting for server reply
+Dec 11 21:38:13.657 DEBG got server reply
+Dec 11 21:38:13.658 DEBG finalize
+Dec 11 21:50:54.422 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Dec 11 21:50:54.422 DEBG skip check
+Dec 11 21:50:54.422 DEBG begin media sync
+Dec 11 21:50:54.464 DEBG fetching meta...
+Dec 11 21:50:54.603 DEBG server usn was 11
+Dec 11 21:50:54.603 DEBG media sync complete
+Dec 11 21:50:54.732 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(163), latest_usn: Usn(163), pending_usn: Usn(-1), new_usn: Some(Usn(163)), server_message: "", host_number: 2 }
+Dec 11 21:50:54.732 DEBG start
+Dec 11 21:50:54.859 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Dec 11 21:50:54.859 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Dec 11 21:50:54.859 DEBG applied server graves
+Dec 11 21:50:54.859 DEBG unchunked changes
+Dec 11 21:50:54.859 DEBG gathering local changes
+Dec 11 21:50:54.860 DEBG sending, tags: 0, deck config: 0, decks: 12, notetypes: 0
+Dec 11 21:50:54.930 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Dec 11 21:50:54.930 DEBG begin stream from server
+Dec 11 21:50:54.976 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Dec 11 21:50:54.976 DEBG begin stream to server
+Dec 11 21:50:54.978 DEBG sending, revlog: 33, notes: 0, cards: 31, done: true
+Dec 11 21:50:55.067 DEBG sanity check
+Dec 11 21:50:55.069 DEBG gathered local counts; waiting for server reply
+Dec 11 21:50:55.143 DEBG got server reply
+Dec 11 21:50:55.143 DEBG finalize
+Dec 12 21:38:52.081 DEBG fetching meta...
+Dec 12 21:38:52.120 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Dec 12 21:38:52.120 DEBG skip check
+Dec 12 21:38:52.120 DEBG begin media sync
+Dec 12 21:38:52.455 DEBG server usn was 11
+Dec 12 21:38:52.455 DEBG media sync complete
+Dec 12 21:38:52.526 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(164), latest_usn: Usn(164), pending_usn: Usn(-1), new_usn: Some(Usn(164)), server_message: "", host_number: 2 }
+Dec 12 21:38:52.526 DEBG start
+Dec 12 21:38:52.596 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Dec 12 21:38:52.596 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Dec 12 21:38:52.596 DEBG applied server graves
+Dec 12 21:38:52.596 DEBG unchunked changes
+Dec 12 21:38:52.596 DEBG gathering local changes
+Dec 12 21:38:52.597 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Dec 12 21:38:52.650 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Dec 12 21:38:52.650 DEBG begin stream from server
+Dec 12 21:38:52.723 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Dec 12 21:38:52.723 DEBG begin stream to server
+Dec 12 21:38:52.724 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Dec 12 21:38:52.781 DEBG sanity check
+Dec 12 21:38:52.784 DEBG gathered local counts; waiting for server reply
+Dec 12 21:38:52.862 DEBG got server reply
+Dec 12 21:38:52.862 DEBG finalize
+Dec 12 23:33:56.794 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Dec 12 23:33:56.795 DEBG skip check
+Dec 12 23:33:56.795 DEBG begin media sync
+Dec 12 23:33:56.941 DEBG fetching meta...
+Dec 12 23:33:57.000 DEBG server usn was 11
+Dec 12 23:33:57.000 DEBG media sync complete
+Dec 12 23:33:57.188 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(165), latest_usn: Usn(165), pending_usn: Usn(-1), new_usn: Some(Usn(165)), server_message: "", host_number: 2 }
+Dec 12 23:33:57.188 DEBG start
+Dec 12 23:33:57.266 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Dec 12 23:33:57.266 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Dec 12 23:33:57.266 DEBG applied server graves
+Dec 12 23:33:57.266 DEBG unchunked changes
+Dec 12 23:33:57.266 DEBG gathering local changes
+Dec 12 23:33:57.267 DEBG sending, tags: 0, deck config: 0, decks: 13, notetypes: 0
+Dec 12 23:33:57.331 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Dec 12 23:33:57.331 DEBG begin stream from server
+Dec 12 23:33:57.398 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Dec 12 23:33:57.398 DEBG begin stream to server
+Dec 12 23:33:57.401 DEBG sending, revlog: 65, notes: 3, cards: 36, done: true
+Dec 12 23:33:57.477 DEBG sanity check
+Dec 12 23:33:57.479 DEBG gathered local counts; waiting for server reply
+Dec 12 23:33:57.559 DEBG got server reply
+Dec 12 23:33:57.559 DEBG finalize
+Dec 13 23:11:41.844 DEBG fetching meta...
+Dec 13 23:11:41.907 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Dec 13 23:11:41.907 DEBG skip check
+Dec 13 23:11:41.907 DEBG begin media sync
+Dec 13 23:11:42.231 DEBG server usn was 11
+Dec 13 23:11:42.449 DEBG media sync complete
+Dec 13 23:11:42.894 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(166), latest_usn: Usn(166), pending_usn: Usn(-1), new_usn: Some(Usn(166)), server_message: "", host_number: 2 }
+Dec 13 23:11:42.894 DEBG start
+Dec 13 23:11:43.084 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Dec 13 23:11:43.084 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Dec 13 23:11:43.084 DEBG applied server graves
+Dec 13 23:11:43.084 DEBG unchunked changes
+Dec 13 23:11:43.084 DEBG gathering local changes
+Dec 13 23:11:43.085 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Dec 13 23:11:43.166 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Dec 13 23:11:43.166 DEBG begin stream from server
+Dec 13 23:11:43.217 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Dec 13 23:11:43.217 DEBG begin stream to server
+Dec 13 23:11:43.260 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Dec 13 23:11:43.345 DEBG sanity check
+Dec 13 23:11:43.347 DEBG gathered local counts; waiting for server reply
+Dec 13 23:11:43.415 DEBG got server reply
+Dec 13 23:11:43.415 DEBG finalize
+Dec 13 23:39:33.558 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Dec 13 23:39:33.558 DEBG skip check
+Dec 13 23:39:33.558 DEBG begin media sync
+Dec 13 23:39:33.625 DEBG fetching meta...
+Dec 13 23:39:33.758 DEBG server usn was 11
+Dec 13 23:39:33.758 DEBG media sync complete
+Dec 13 23:39:33.885 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(167), latest_usn: Usn(167), pending_usn: Usn(-1), new_usn: Some(Usn(167)), server_message: "", host_number: 2 }
+Dec 13 23:39:33.885 DEBG start
+Dec 13 23:39:33.945 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Dec 13 23:39:33.945 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Dec 13 23:39:33.945 DEBG applied server graves
+Dec 13 23:39:33.945 DEBG unchunked changes
+Dec 13 23:39:33.945 DEBG gathering local changes
+Dec 13 23:39:33.946 DEBG sending, tags: 0, deck config: 0, decks: 16, notetypes: 0
+Dec 13 23:39:33.998 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Dec 13 23:39:33.998 DEBG begin stream from server
+Dec 13 23:39:34.048 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Dec 13 23:39:34.048 DEBG begin stream to server
+Dec 13 23:39:34.051 DEBG sending, revlog: 104, notes: 3, cards: 68, done: true
+Dec 13 23:39:34.121 DEBG sanity check
+Dec 13 23:39:34.123 DEBG gathered local counts; waiting for server reply
+Dec 13 23:39:34.180 DEBG got server reply
+Dec 13 23:39:34.180 DEBG finalize
+Dec 14 16:28:56.536 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Dec 14 16:28:56.651 DEBG skip check
+Dec 14 16:28:56.651 DEBG fetching meta...
+Dec 14 16:28:56.651 DEBG begin media sync
+Dec 14 16:28:56.815 DEBG server usn was 11
+Dec 14 16:28:56.815 DEBG media sync complete
+Dec 14 16:28:56.877 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(168), latest_usn: Usn(168), pending_usn: Usn(-1), new_usn: Some(Usn(168)), server_message: "", host_number: 2 }
+Dec 14 16:28:56.877 DEBG start
+Dec 14 16:28:56.947 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Dec 14 16:28:56.947 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Dec 14 16:28:56.947 DEBG applied server graves
+Dec 14 16:28:56.947 DEBG unchunked changes
+Dec 14 16:28:56.947 DEBG gathering local changes
+Dec 14 16:28:56.947 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Dec 14 16:28:57.009 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Dec 14 16:28:57.009 DEBG begin stream from server
+Dec 14 16:28:57.072 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Dec 14 16:28:57.072 DEBG begin stream to server
+Dec 14 16:28:57.074 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Dec 14 16:28:57.130 DEBG sanity check
+Dec 14 16:28:57.132 DEBG gathered local counts; waiting for server reply
+Dec 14 16:28:57.235 DEBG got server reply
+Dec 14 16:28:57.235 DEBG finalize
+Dec 14 20:33:55.566 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Dec 14 20:33:55.566 DEBG skip check
+Dec 14 20:33:55.566 DEBG begin media sync
+Dec 14 20:33:55.638 DEBG fetching meta...
+Dec 14 20:33:55.747 DEBG server usn was 11
+Dec 14 20:33:55.747 DEBG media sync complete
+Dec 14 20:33:55.945 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(169), latest_usn: Usn(169), pending_usn: Usn(-1), new_usn: Some(Usn(169)), server_message: "", host_number: 2 }
+Dec 14 20:33:55.945 DEBG start
+Dec 14 20:33:56.055 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Dec 14 20:33:56.055 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Dec 14 20:33:56.055 DEBG applied server graves
+Dec 14 20:33:56.055 DEBG unchunked changes
+Dec 14 20:33:56.055 DEBG gathering local changes
+Dec 14 20:33:56.056 DEBG sending, tags: 0, deck config: 0, decks: 17, notetypes: 0
+Dec 14 20:33:56.141 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Dec 14 20:33:56.141 DEBG begin stream from server
+Dec 14 20:33:56.238 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Dec 14 20:33:56.238 DEBG begin stream to server
+Dec 14 20:33:56.241 DEBG sending, revlog: 63, notes: 5, cards: 55, done: true
+Dec 14 20:33:56.315 DEBG sanity check
+Dec 14 20:33:56.316 DEBG gathered local counts; waiting for server reply
+Dec 14 20:33:56.390 DEBG got server reply
+Dec 14 20:33:56.390 DEBG finalize
+Dec 15 22:59:02.101 DEBG fetching meta...
+Dec 15 22:59:02.241 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Dec 15 22:59:02.242 DEBG skip check
+Dec 15 22:59:02.242 DEBG begin media sync
+Dec 15 22:59:02.352 DEBG server usn was 11
+Dec 15 22:59:02.352 DEBG media sync complete
+Dec 15 22:59:02.421 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(170), latest_usn: Usn(170), pending_usn: Usn(-1), new_usn: Some(Usn(170)), server_message: "", host_number: 2 }
+Dec 15 22:59:02.421 DEBG start
+Dec 15 22:59:02.539 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Dec 15 22:59:02.539 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Dec 15 22:59:02.539 DEBG applied server graves
+Dec 15 22:59:02.539 DEBG unchunked changes
+Dec 15 22:59:02.539 DEBG gathering local changes
+Dec 15 22:59:02.540 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Dec 15 22:59:02.601 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Dec 15 22:59:02.601 DEBG begin stream from server
+Dec 15 22:59:02.646 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Dec 15 22:59:02.646 DEBG begin stream to server
+Dec 15 22:59:02.647 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Dec 15 22:59:02.705 DEBG sanity check
+Dec 15 22:59:02.706 DEBG gathered local counts; waiting for server reply
+Dec 15 22:59:02.782 DEBG got server reply
+Dec 15 22:59:02.782 DEBG finalize
+Dec 15 23:05:44.048 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Dec 15 23:05:44.049 DEBG skip check
+Dec 15 23:05:44.049 DEBG begin media sync
+Dec 15 23:05:44.103 DEBG fetching meta...
+Dec 15 23:05:44.211 DEBG server usn was 11
+Dec 15 23:05:44.211 DEBG media sync complete
+Dec 15 23:05:44.308 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(171), latest_usn: Usn(171), pending_usn: Usn(-1), new_usn: Some(Usn(171)), server_message: "", host_number: 2 }
+Dec 15 23:05:44.309 DEBG start
+Dec 15 23:05:44.393 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Dec 15 23:05:44.393 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Dec 15 23:05:44.394 DEBG applied server graves
+Dec 15 23:05:44.394 DEBG unchunked changes
+Dec 15 23:05:44.394 DEBG gathering local changes
+Dec 15 23:05:44.394 DEBG sending, tags: 0, deck config: 0, decks: 12, notetypes: 0
+Dec 15 23:05:44.435 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Dec 15 23:05:44.435 DEBG begin stream from server
+Dec 15 23:05:44.495 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Dec 15 23:05:44.495 DEBG begin stream to server
+Dec 15 23:05:44.495 DEBG sending, revlog: 37, notes: 0, cards: 34, done: true
+Dec 15 23:05:44.551 DEBG sanity check
+Dec 15 23:05:44.552 DEBG gathered local counts; waiting for server reply
+Dec 15 23:05:44.613 DEBG got server reply
+Dec 15 23:05:44.613 DEBG finalize
+Dec 16 21:08:41.173 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Dec 16 21:08:41.274 DEBG fetching meta...
+Dec 16 21:08:41.274 DEBG skip check
+Dec 16 21:08:41.274 DEBG begin media sync
+Dec 16 21:08:41.370 DEBG server usn was 11
+Dec 16 21:08:41.370 DEBG media sync complete
+Dec 16 21:08:41.427 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(172), latest_usn: Usn(172), pending_usn: Usn(-1), new_usn: Some(Usn(172)), server_message: "", host_number: 2 }
+Dec 16 21:08:41.427 DEBG start
+Dec 16 21:08:41.487 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Dec 16 21:08:41.487 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Dec 16 21:08:41.487 DEBG applied server graves
+Dec 16 21:08:41.487 DEBG unchunked changes
+Dec 16 21:08:41.487 DEBG gathering local changes
+Dec 16 21:08:41.488 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Dec 16 21:08:41.542 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Dec 16 21:08:41.542 DEBG begin stream from server
+Dec 16 21:08:41.609 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Dec 16 21:08:41.609 DEBG begin stream to server
+Dec 16 21:08:41.610 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Dec 16 21:08:41.657 DEBG sanity check
+Dec 16 21:08:41.659 DEBG gathered local counts; waiting for server reply
+Dec 16 21:08:41.731 DEBG got server reply
+Dec 16 21:08:41.731 DEBG finalize
+Dec 16 21:08:49.116 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Dec 16 21:08:49.116 DEBG skip check
+Dec 16 21:08:49.116 DEBG begin media sync
+Dec 16 21:08:49.173 DEBG fetching meta...
+Dec 16 21:08:49.333 DEBG server usn was 11
+Dec 16 21:08:49.333 DEBG media sync complete
+Dec 16 21:08:49.693 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(173), latest_usn: Usn(173), pending_usn: Usn(-1), new_usn: Some(Usn(173)), server_message: "", host_number: 2 }
+Dec 16 21:08:49.693 DEBG start
+Dec 16 21:08:49.745 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Dec 16 21:08:49.745 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Dec 16 21:08:49.745 DEBG applied server graves
+Dec 16 21:08:49.745 DEBG unchunked changes
+Dec 16 21:08:49.745 DEBG gathering local changes
+Dec 16 21:08:49.745 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Dec 16 21:08:49.802 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Dec 16 21:08:49.802 DEBG begin stream from server
+Dec 16 21:08:49.865 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Dec 16 21:08:49.865 DEBG begin stream to server
+Dec 16 21:08:49.865 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Dec 16 21:08:49.914 DEBG sanity check
+Dec 16 21:08:49.916 DEBG gathered local counts; waiting for server reply
+Dec 16 21:08:49.992 DEBG got server reply
+Dec 16 21:08:49.992 DEBG finalize
+Dec 16 21:08:55.095 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Dec 16 21:08:55.098 DEBG skip check
+Dec 16 21:08:55.098 DEBG begin media sync
+Dec 16 21:08:55.099 DEBG fetching meta...
+Dec 16 21:08:55.328 DEBG server usn was 11
+Dec 16 21:08:55.329 DEBG media sync complete
+Dec 16 21:08:55.362 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(174), latest_usn: Usn(174), pending_usn: Usn(-1), new_usn: Some(Usn(174)), server_message: "", host_number: 2 }
+Dec 16 23:42:14.580 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Dec 16 23:42:14.580 DEBG skip check
+Dec 16 23:42:14.580 DEBG begin media sync
+Dec 16 23:42:14.632 DEBG fetching meta...
+Dec 16 23:42:14.775 DEBG server usn was 11
+Dec 16 23:42:14.776 DEBG media sync complete
+Dec 16 23:42:14.898 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(174), latest_usn: Usn(174), pending_usn: Usn(-1), new_usn: Some(Usn(174)), server_message: "", host_number: 2 }
+Dec 16 23:42:14.898 DEBG start
+Dec 16 23:42:14.964 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Dec 16 23:42:14.965 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Dec 16 23:42:14.965 DEBG applied server graves
+Dec 16 23:42:14.965 DEBG unchunked changes
+Dec 16 23:42:14.965 DEBG gathering local changes
+Dec 16 23:42:14.966 DEBG sending, tags: 0, deck config: 0, decks: 14, notetypes: 0
+Dec 16 23:42:15.019 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Dec 16 23:42:15.019 DEBG begin stream from server
+Dec 16 23:42:15.090 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Dec 16 23:42:15.090 DEBG begin stream to server
+Dec 16 23:42:15.092 DEBG sending, revlog: 33, notes: 0, cards: 31, done: true
+Dec 16 23:42:15.149 DEBG sanity check
+Dec 16 23:42:15.151 DEBG gathered local counts; waiting for server reply
+Dec 16 23:42:15.208 DEBG got server reply
+Dec 16 23:42:15.208 DEBG finalize
+Dec 17 23:21:25.157 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Dec 17 23:21:25.264 DEBG skip check
+Dec 17 23:21:25.264 DEBG begin media sync
+Dec 17 23:21:25.264 DEBG fetching meta...
+Dec 17 23:21:25.379 DEBG server usn was 11
+Dec 17 23:21:25.379 DEBG media sync complete
+Dec 17 23:21:25.428 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(175), latest_usn: Usn(175), pending_usn: Usn(-1), new_usn: Some(Usn(175)), server_message: "", host_number: 2 }
+Dec 17 23:21:25.428 DEBG start
+Dec 17 23:21:25.576 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Dec 17 23:21:25.576 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Dec 17 23:21:25.576 DEBG applied server graves
+Dec 17 23:21:25.576 DEBG unchunked changes
+Dec 17 23:21:25.576 DEBG gathering local changes
+Dec 17 23:21:25.577 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Dec 17 23:21:25.626 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Dec 17 23:21:25.626 DEBG begin stream from server
+Dec 17 23:21:25.675 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Dec 17 23:21:25.675 DEBG begin stream to server
+Dec 17 23:21:25.676 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Dec 17 23:21:25.722 DEBG sanity check
+Dec 17 23:21:25.725 DEBG gathered local counts; waiting for server reply
+Dec 17 23:21:25.804 DEBG got server reply
+Dec 17 23:21:25.804 DEBG finalize
+Dec 17 23:28:01.679 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Dec 17 23:28:01.679 DEBG skip check
+Dec 17 23:28:01.679 DEBG begin media sync
+Dec 17 23:28:01.874 DEBG server usn was 11
+Dec 17 23:28:01.874 DEBG media sync complete
+Dec 17 23:28:02.081 DEBG fetching meta...
+Dec 17 23:28:02.629 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(176), latest_usn: Usn(176), pending_usn: Usn(-1), new_usn: Some(Usn(176)), server_message: "", host_number: 2 }
+Dec 17 23:28:02.629 DEBG start
+Dec 17 23:28:02.710 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Dec 17 23:28:02.710 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Dec 17 23:28:02.710 DEBG applied server graves
+Dec 17 23:28:02.710 DEBG unchunked changes
+Dec 17 23:28:02.710 DEBG gathering local changes
+Dec 17 23:28:02.711 DEBG sending, tags: 0, deck config: 0, decks: 14, notetypes: 0
+Dec 17 23:28:02.760 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Dec 17 23:28:02.760 DEBG begin stream from server
+Dec 17 23:28:02.806 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Dec 17 23:28:02.806 DEBG begin stream to server
+Dec 17 23:28:02.808 DEBG sending, revlog: 37, notes: 0, cards: 36, done: true
+Dec 17 23:28:02.866 DEBG sanity check
+Dec 17 23:28:02.868 DEBG gathered local counts; waiting for server reply
+Dec 17 23:28:02.931 DEBG got server reply
+Dec 17 23:28:02.931 DEBG finalize
+Dec 18 21:16:55.166 DEBG fetching meta...
+Dec 18 21:16:55.309 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Dec 18 21:16:55.309 DEBG skip check
+Dec 18 21:16:55.310 DEBG begin media sync
+Dec 18 21:16:55.428 DEBG server usn was 11
+Dec 18 21:16:55.428 DEBG media sync complete
+Dec 18 21:16:55.495 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(177), latest_usn: Usn(177), pending_usn: Usn(-1), new_usn: Some(Usn(177)), server_message: "", host_number: 2 }
+Dec 18 21:16:55.495 DEBG start
+Dec 18 21:16:55.560 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Dec 18 21:16:55.560 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Dec 18 21:16:55.560 DEBG applied server graves
+Dec 18 21:16:55.560 DEBG unchunked changes
+Dec 18 21:16:55.560 DEBG gathering local changes
+Dec 18 21:16:55.561 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Dec 18 21:16:55.610 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Dec 18 21:16:55.610 DEBG begin stream from server
+Dec 18 21:16:55.663 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Dec 18 21:16:55.663 DEBG begin stream to server
+Dec 18 21:16:55.665 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Dec 18 21:16:55.724 DEBG sanity check
+Dec 18 21:16:55.727 DEBG gathered local counts; waiting for server reply
+Dec 18 21:16:55.793 DEBG got server reply
+Dec 18 21:16:55.793 DEBG finalize
+Dec 18 21:26:02.805 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Dec 18 21:26:02.805 DEBG skip check
+Dec 18 21:26:02.805 DEBG begin media sync
+Dec 18 21:26:02.860 DEBG fetching meta...
+Dec 18 21:26:03.047 DEBG server usn was 11
+Dec 18 21:26:03.047 DEBG media sync complete
+Dec 18 21:26:03.130 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(178), latest_usn: Usn(178), pending_usn: Usn(-1), new_usn: Some(Usn(178)), server_message: "", host_number: 2 }
+Dec 18 21:26:03.130 DEBG start
+Dec 18 21:26:03.361 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Dec 18 21:26:03.361 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Dec 18 21:26:03.361 DEBG applied server graves
+Dec 18 21:26:03.361 DEBG unchunked changes
+Dec 18 21:26:03.361 DEBG gathering local changes
+Dec 18 21:26:03.362 DEBG sending, tags: 0, deck config: 0, decks: 11, notetypes: 0
+Dec 18 21:26:03.419 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Dec 18 21:26:03.419 DEBG begin stream from server
+Dec 18 21:26:03.499 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Dec 18 21:26:03.499 DEBG begin stream to server
+Dec 18 21:26:03.501 DEBG sending, revlog: 26, notes: 1, cards: 22, done: true
+Dec 18 21:26:03.556 DEBG sanity check
+Dec 18 21:26:03.558 DEBG gathered local counts; waiting for server reply
+Dec 18 21:26:03.628 DEBG got server reply
+Dec 18 21:26:03.628 DEBG finalize
+Dec 18 21:48:01.121 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Dec 18 21:48:01.121 DEBG skip check
+Dec 18 21:48:01.121 DEBG begin media sync
+Dec 18 21:48:01.138 DEBG fetching meta...
+Dec 18 21:48:01.311 DEBG server usn was 11
+Dec 18 21:48:01.311 DEBG media sync complete
+Dec 18 21:48:01.405 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(179), latest_usn: Usn(179), pending_usn: Usn(-1), new_usn: Some(Usn(179)), server_message: "", host_number: 2 }
+Dec 18 21:48:03.548 DEBG begin change check, db_mod: 1597761658, folder_mod: 1597761658
+Dec 18 21:48:03.548 DEBG skip check
+Dec 18 21:48:03.548 DEBG begin media sync
+Dec 18 21:48:03.571 DEBG fetching meta...
+Dec 18 21:48:03.779 DEBG server usn was 11
+Dec 18 21:48:03.779 DEBG media sync complete
+Dec 18 21:48:03.872 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(179), latest_usn: Usn(179), pending_usn: Usn(-1), new_usn: Some(Usn(179)), server_message: "", host_number: 2 }
